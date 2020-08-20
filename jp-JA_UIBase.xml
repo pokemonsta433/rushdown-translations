@@ -33,10 +33,7 @@
     <string name="ui.main.submenu.play_local">ゲームをする</string>
     <string name="ui.main.submenu.header_online">オンライン</string>
     <string name="ui.main.submenu.header_online_casual">優しい</string>
-    <string name="ui.main.submenu.header_custom_lobbies">カスタムロビー</string>
-    <string name="ui.main.submenu.play_online_casual_1v1">1 V 1</string>
-    <string name="ui.main.submenu.custom_lobby_create">つくる</string>
-    <string name="ui.main.submenu.custom_lobby_join">入る</string>
+    <string name="u
     <string name="ui.main.submenu.customLobby.create.error.NotConnected.title">接続がありません</string>
     <string name="ui.main.submenu.customLobby.create.error.NotConnected.body">ロビーを作るために接続が必要です</string>
     <string name="ui.main.submenu.customLobby.create.error.NotConnected.button">はい</string>
