@@ -5,12 +5,12 @@ Please be respectful with this page, and submit pull requests for changes you wo
 
 A string (line of text) follows this format:
 
-"<string name="string.name">THE TEXT THAT THE USER WILL SEE</string>"
+\<string name="string.name">THE TEXT THAT THE USER WILL SEE</string>
 
 
 your job is to translate the text in between the <string> </string> tags. in this case the translated version might look like this:
 
-"<string name="string.name">ユーザーに表示されるテキスト</string>"
+\<string name="string.name">ユーザーに表示されるテキスト</string>
 
 note that only the text inside the tags has been translated.
 
