@@ -1,1 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
 
+  <string name="ui.nux.close">CLOSE</string>
+  <string name="ui.nux.continue">CONTINUE</string>
+  <string name="ui.nux.visitgallery">VISIT GALLERY</string>
+
+  <string name="ui.nux.welcome.title">WELCOME TO EARLY ACCESS</string>
+  <string name="ui.nux.welcome.description">&lt;sprite=0&gt;&lt;indent=4em&gt;All characters are available to play in training mode&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;XP is earned through playing quick matches. &lt;#5BB9F4&gt;Reach level 2&lt;/color&gt; and you'll &lt;#5BB9F4&gt;unlock a character of your choice&lt;/color&gt;!&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;Please leave us feedback through the link on the main menu&lt;/indent&gt;</string>
+  <string name="ui.nux.welcome.havefun">Have fun in the arena,</string>
+
+  <string name="ui.nux.token.first.title">CONGRATULATIONS!</string>
+  <string name="ui.nux.token.first.subtitle">It's time to unlock a character!</string>
+  <string name="ui.nux.token.first.description">Head over to the gallery and use your token to unlock any character you want. Be sure to try the characters out in training mode if you haven't already.
+
+You will earn your next &lt;#5BB9F4&gt;character token&lt;/color&gt; at &lt;#5BB9F4&gt;level 15&lt;/color&gt;.
+
+Have fun in the arena!</string>
+
+  <string name="ui.nux.token.second.title">CONGRATULATIONS!</string>
+  <string name="ui.nux.token.second.subtitle">You've unlocked another character!</string>
+  <string name="ui.nux.token.second.description">As before, choose wisely and be sure to try the character out in training mode before locking in your purchase.
+
+Keep playing and more characters will unlock as you gain levels.
+You are &lt;#5BB9F4&gt;guaranteed a new character every 30 levels&lt;/color&gt;, with luck you'll get them earlier. New characters will arrive every few months, be on the lookout.
+
+Let us know how we're doing and have fun in the arena!</string>
+
+  <string name="ui.nux.rankedchoice.ranked">RANKED</string>
+  <string name="ui.nux.rankedchoice.friendly">FRIENDLY</string>
+  <string name="ui.nux.rankedchoice.disclaimer">*Icons will always match you against players of similar skill, regardless of setting.</string>
+  <string name="ui.nux.rankedchoice.title">SKILL RATING</string>
+  <string name="ui.nux.rankedchoice.description">&lt;sprite=0&gt;&lt;indent=4em&gt;Customize your 1v1 experience by displaying your skill rating.&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;Ranked matches will show your skill rating at the end of a match.&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;Friendly matches are what you've been playing, no rating is shown.&lt;/indent&gt;
+    
+&lt;sprite=0&gt;&lt;indent=4em&gt;You may switch modes at any point in the video settings menu.&lt;/indent&gt;</string>
+  <string name="ui.nux.rankedselected.title">THANKS FOR HELPING US TEST</string>
+  <string name="ui.nux.rankedselected.description">&lt;sprite=0&gt;&lt;indent=4em&gt;This is not a fully featured ranked mode.&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;You will be playing the same opponents, in the same 1v1 queue.&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;We are collecting data on how ratings affect your experience in preparation for building our ranked system.&lt;/indent&gt;
+
+&lt;sprite=0&gt;&lt;indent=4em&gt;Let us know what Ranked means to you and good luck in the queue!&lt;/indent&gt;</string>
+
+  <string name="ui.loginBonus.day0.title">LOG IN AND EARN FREE STUFF</string>
+	<string name="ui.loginBonus.day0.subtitle"></string>
+	<string name="ui.loginBonus.day0.body">Receive these rewards for logging in on the following days</string>
+	
+	<string name="ui.loginBonus.day1.title">YOU EARNED A FREE GIFT</string>
+	<string name="ui.loginBonus.day1.subtitle">50 SPECTRA</string>
+	<string name="ui.loginBonus.day1.body">Receive these rewards for logging in on the following days</string>
+	
+	<string name="ui.loginBonus.day2.title">YOU EARNED A FREE GIFT</string>
+	<string name="ui.loginBonus.day2.subtitle">4 PORTAL PACKS</string>
+	<string name="ui.loginBonus.day2.body">Receive these rewards for logging in on the following days</string>
+
+	<string name="ui.loginBonus.line1">DAY 2 ({0}): 50 SPECTRA {1}</string>
+	<string name="ui.loginBonus.line2">DAY 3 ({0}): 4 PORTAL PACKS {1}</string>
+	<string name="ui.loginBonus.confirm">OK</string>
+	<string name="ui.loginBonus.notReady"> &lt;font="Lato-Regular SDF&gt;&lt;size=36&gt;(Available in #*)</string>
+	<string name="ui.loginBonus.claimed">&lt;sprite="icon-check" name="icon-check" color=#F19D00FF&gt;</string>
+	<string name="ui.loginBonus.unclaimed">&lt;sprite="cross" name="cross" color=#FF0000FF&gt;</string>
+	<string name="ui.loginBonus.available">&lt;font="Lato-Regular SDF&gt;&lt;size=36&gt;Restart game to claim</string>
+
+	<string name="ui.screen.loadFailed">Failed to load data</string>
+
+  <string name="ui.paused.title">PAUSED</string>
+  <string name="ui.paused.resume">RESUME</string>
+  <string name="ui.paused.settings">SETTINGS</string>
+  <string name="ui.paused.quit">QUIT</string>
+  <string name="ui.paused.pausedBy">BY #*</string>
+	<string name="ui.paused.characterSelect">CHARACTER SELECT</string>
+	<string name="ui.paused.stageSelect">STAGE SELECT</string>
+	<string name="ui.paused.ai">AI:</string>
+	<string name="ui.paused.hitboxes">HITBOX DISPLAY:</string>
+	<string name="ui.paused.frameAdvance">FRAME ADVANCE:</string>
+
+	<string name="ui.main.play">PLAY</string>
+  <string name="ui.main.train">TRAINING MODE</string>
+  <string name="ui.main.tutorial">TUTORIAL</string>
+  <string name="ui.main.store">STORE</string>
+  <string name="ui.main.lootBox">PORTAL PACKS</string>
+  <string name="ui.main.gallery">CUSTOMIZE</string>
+  <string name="ui.main.replays">VIEW REPLAY</string>
+  <string name="ui.main.settings">SETTINGS</string>
+  <string name="ui.main.feedback">FEEDBACK</string>
+  <string name="ui.main.quit">QUIT</string>
+  <string name="ui.main.credits">CREDITS</string>
+	
+  <string name="ui.main.submenu.header_local">LOCAL PLAY</string>
+  <string name="ui.main.submenu.play_local">PLAY</string>
+  <string name="ui.main.submenu.header_online">QUICK PLAY</string>
+	<string name="ui.main.submenu.header_online_casual">FRIENDLY</string>
+	<string name="ui.main.submenu.header_custom_lobbies">CUSTOM LOBBIES</string>
+	<string name="ui.main.submenu.play_online_casual_1v1">1 V 1</string>
+  <string name="ui.main.submenu.leave_online_casual_1v1">LEAVE QUEUE</string>
+  <string name="ui.main.submenu.play_online_casual_ffa">FREE FOR ALL</string>
+	<string name="ui.main.submenu.leave_online_casual_ffa">LEAVE QUEUE</string>
+	<string name="ui.main.submenu.header_online_ranked">RANKED</string>
+  <string name="ui.main.submenu.play_online_ranked_1v1">1 V 1</string>
+	<string name="ui.main.submenu.custom_lobby_create">CREATE</string>
+	<string name="ui.main.submenu.custom_lobby_join">JOIN</string>
+	<string name="ui.main.submenu.play_online_training_mode">TRAINING MODE</string>
+	<string name="ui.main.submenu.quickmatch.error.NotConnected.title">NOT CONNECTED</string>
+	<string name="ui.main.submenu.quickmatch.error.NotConnected.body">You must have an online connection to play 1v1.</string>
+	<string name="ui.main.submenu.quickmatch.error.NotConnected.button">OK</string>
+	<string name="ui.main.submenu.quickmatch.error.RawAnimations.title">RAW ANIMATIONS</string>
+	<string name="ui.main.submenu.quickmatch.error.RawAnimations.body">You must have baked animations to play 1v1.</string>
+	<string name="ui.main.submenu.quickmatch.error.RawAnimations.button">OK</string>
+	<string name="ui.main.submenu.customLobby.create.error.NotConnected.title">NOT CONNECTED</string>
+	<string name="ui.main.submenu.customLobby.create.error.NotConnected.body">You must have an online connection to create a custom lobby.</string>
+	<string name="ui.main.submenu.customLobby.create.error.NotConnected.button">OK</string>
+	<string name="ui.main.submenu.customLobby.join.error.NotConnected.title">NOT CONNECTED</string>
+	<string name="ui.main.submenu.customLobby.join.error.NotConnected.body">You must have an online connection to join a custom lobby.</string>
+	<string name="ui.main.submenu.customLobby.join.error.NotConnected.button">OK</string>
+	<string name="ui.main.loadingbar.queue_started">MATCHMAKING STARTED ...</string>
+	<string name="ui.main.loadingbar.queue_confirmed">IN QUEUE: #* </string>
+  <string name="ui.main.loadingbar.leave_queue.controller_cancel">PRESS X TO CANCEL</string>
+
+  <string name="ui.main.firstwin.title">FIRST WIN OF THE DAY</string>
+  <string name="ui.main.firstwin.line1.available">Reward: &lt;sprite="currency" name="currency"&gt; {0}</string>
+	<string name="ui.main.firstwin.line1.complete">Complete</string>
+	<string name="ui.main.firstwin.line2">EARN SPECTRA IN: {0}</string>
+
+	<string name="ui.main.loginBonusDay2.title">LOG IN DAY 2</string>
+	<string name="ui.main.loginBonusDay2.line1.pending">Reward: &lt;sprite="currency" name="currency"&gt; 50</string>
+	<string name="ui.main.loginBonusDay2.line1.complete">Complete</string>
+	<string name="ui.main.loginBonusDay2.line1.available">Restart game to claim bonus</string>
+	<string name="ui.main.loginBonusDay2.line2">EARN SPECTRA IN: {0}</string>
+
+	<string name="ui.main.loginBonusDay3.title">LOG IN DAY 3</string>
+	<string name="ui.main.loginBonusDay3.line1.pending">Reward: &lt;sprite="Lootbox__angle" name="Lootbox__angle"&gt; 4</string>
+	<string name="ui.main.loginBonusDay3.line1.complete">Complete</string>
+	<string name="ui.main.loginBonusDay3.line1.available">Restart game to claim bonus</string>
+	<string name="ui.main.loginBonusDay3.line2">EARN PORTAL PACKS IN: {0}</string>
+
+	<string name="ui.login.username">USERNAME</string>
+  <string name="ui.login.password">PASSWORD</string>
+  <string name="ui.login.email">EMAIL</string>
+  <string name="ui.login.login">LOGIN</string>
+  <string name="ui.login.newUser">NEW USER</string>
+  <string name="ui.login.cantLogin">CAN'T LOG IN?</string>
+  <string name="ui.login.remember">REMEMBER ME</string>
+  <string name="ui.login.quit">QUIT</string>
+  <string name="ui.login.newAccount.title">CREATE AN ACCOUNT</string>
+  <string name="ui.login.createAccount">CREATE ACCOUNT</string>
+  <string name="ui.login.haveAccount">I HAVE AN ACCOUNT</string>
+  <string name="ui.login.mouseKeyboardNotify">KEYBOARD / MOUSE REQUIRED TO LOG IN</string>
+  <string name="ui.login.terms">I am over 13 and have read and agreed to the &lt;link="terms_of_service"&gt;&lt;color=#FBA403&gt;&lt;b&gt;&lt;u&gt;Terms of Service&lt;/u&gt;&lt;/b&gt;&lt;/color&gt;&lt;/link&gt; and &lt;link="privacy_policy"&gt;&lt;color=#FBA403&gt;&lt;b&gt;&lt;u&gt;Privacy Policy&lt;/u&gt;&lt;/b&gt;&lt;/color&gt;&lt;/link&gt;.</string>
+  <string name="ui.login.validationError.TOO_SHORT">Username must be at least #* characters long.</string>
+  <string name="ui.login.validationError.INVALID_CHARACTERS">Username may only contains letters and numbers.</string>
+  <string name="ui.login.validationError.INVALID_EMAIL">Not a valid email address.</string>
+  <string name="ui.login.validationError.PW_NEED_CAPITAL">Password must contain at least one capital letter.</string>
+  <string name="ui.login.validationError.PW_NEED_SYMBOL">Password must contain a special character.</string>
+  <string name="ui.login.validationError.PW_NEED_NUMBER">Password must contain at least one number.</string>
+  <string name="ui.login.validationError.PW_NO_SPACES">Password cannot have a space.</string>
+  <string name="ui.login.validationError.PW_LENGTH">Password must be at least #* characters long.</string>
+  <string name="ui.login.validationError.MUST_ACCEPT_TERMS">This field is required.</string>
+
+  <string name="ui.login.connectionError.title">CONNECTION ERROR</string>
+  <string name="ui.login.connectionError.body">Check your network connection and try again. If the problem persists, please try again later.</string>
+  <string name="ui.login.connectionError.tryAgain">LOGIN</string>
+
+  <string name="ui.login.ErrorCode.title">CONNECTION ERROR</string>
+  <string name="ui.login.ErrorCode.body">Connecting to the game servers failed with error code #*. Please try again!</string>
+  <string name="ui.login.ErrorCode.ok">OK</string>
+	<string name="ui.login.NoAuthConnection.body">Servers Offline. Please &lt;link="discord"&gt;&lt;b&gt;&lt;u&gt;visit our Discord community&lt;/u&gt;&lt;/b&gt;&lt;/link&gt; for more information.</string>
+
+	<string name="ui.login.ErrorCode.body_2007">Error 2007
+Servers Offline. Please &lt;link="discord"&gt;&lt;b&gt;&lt;u&gt;visit our Discord community&lt;/u&gt;&lt;/b&gt;&lt;/link&gt; for more information.</string>
+	<string name="ui.login.ErrorCode.title_2008">CLIENT IS OUT OF DATE</string>
+	<string name="ui.login.ErrorCode.body_2008">Please update your client to continue. 
+	
+If no update is available, select "Verify integrity of local files" from the properties menu to force an update.</string>
+	
+  <string name="ui.login.loading.connecting">CONNECTING</string>
+  <string name="ui.login.loading.loggingIn">LOGGING IN</string>
+  <string name="ui.login.loading.creating">CREATING ACCOUNT</string>
+  <string name="ui.login.loading.creatingComplete">SUCCESS</string>
+
+  <string name="ui.createAccount.error.nameTooShort.title">NAME TOO SHORT</string>
+  <string name="ui.createAccount.error.nameTooShort.body">You must enter a longer name.</string>
+  <string name="ui.createAccount.error.nameInvalid.title">INVALID NAME</string>
+  <string name="ui.createAccount.error.nameInvalid.body">That name is not allowed, please enter a different one.</string>
+  <string name="ui.createAccount.error.emailInUse.title">EMAIL TAKEN</string>
+  <string name="ui.createAccount.error.emailInUse.body">That email address is already in use, please enter a different one.</string>
+  <string name="ui.createAccount.error.emailInvalid.title">INVALID EMAIL</string>
+  <string name="ui.createAccount.error.emailInvalid.body">The address you provided is not a valid email, please check for any errors and try again.</string>
+  <string name="ui.createAccount.error.unknown.title">UNKNOWN ERROR</string>
+  <string name="ui.createAccount.error.unknown.body">Oops! The client has experienced an error. If it continues, please let us know.</string>
+  <string name="ui.createAccount.error.continue">OK</string>
+
+  <string name="ui.createAccount.success.title">ACCOUNT CREATED</string>
+  <string name="ui.createAccount.success.body">You're ready to join the fight!</string>
+  <string name="ui.createAccount.success.continue">CONTINUE</string>
+  
+  <string name="ui.stageSelect.resetStrikes">RESET STRIKES</string>
+  <string name="ui.stageSelect.back">BACK</string>
+  <string name="ui.stageSelect.strikeInstructions">TO STRIKE STAGE</string>
+  <string name="ui.stageSelect.title">SELECT A BATTLEFIELD</string>
+
+	<string name="ui.onlineBlindPick.back">BACK</string>
+	<string name="ui.onlineBlindPick.selectFighter">PREPARE FOR BATTLE</string>
+  <string name="ui.onlineBlindPick.spectating">SPECTATING</string>
+	<string name="ui.onlineBlindPick.playingVs">PLAYING  &lt;font="LeagueSpartan-Bold SDF"&gt;&lt;size=27&gt;#*&lt;/size&gt;&lt;/font&gt; IN </string>
+  <string name="ui.onlineBlindPick.waiting">WAITING FOR PLAYERS</string>
+	<string name="ui.onlineBlindPick.stagetitle">STAGE#*</string>
+	<string name="ui.onlineBlindPick.NofN"> (#* OF #*)</string>
+	<string name="ui.onlineBlindPick.LockIn">READY TO PLAY</string>
+  <string name="ui.onlineBlindPick.IsLocked">LOCKED IN</string>
+  <string name="ui.onlineBlindPick.NotOwned">NOT OWNED</string>
+  <string name="ui.onlineBlindPick.unlockableinstore">Also available in the Store {0}</string>
+					
+  <string name="ui.characterSelect.title">PREPARE FOR BATTLE</string>
+  <string name="ui.characterSelect.startButton">START</string>
+
+  <string name="ui.characterSelect.playerNumDisplay">P#*</string>
+  <string name="ui.characterSelect.cpuNumDisplay">CPU</string>
+  <string name="ui.characterSelect.you">YOU</string>
+  <string name="ui.characterSelect.playerName">PLAYER #*</string>
+  <string name="ui.characterSelect.back">BACK</string>
+  <string name="ui.characterSelect.input.save">SAVE</string>
+  <string name="ui.characterSelect.input.cancel">CANCEL</string>
+
+	<string name="ui.characterSelect.purchase.character">BUY CHARACTER &lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;  &lt;sprite=0&gt;</string>
+	<string name="ui.characterSelect.purchase.skin">BUY SKIN  &lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;  &lt;sprite=0&gt;</string>
+	
+	<string name="ui.characterSelect.mainOption.Rules">RULES:</string>
+  <string name="ui.characterSelect.mainOption.Mode">MODE:</string>
+  <string name="ui.characterSelect.mainOption.Lives">STOCK:</string>
+  <string name="ui.characterSelect.mainOption.Time">TIME:</string>
+  <string name="ui.characterSelect.mainOption.StageSelect">STAGE SELECT:</string>
+  <string name="ui.characterSelect.mainOption.TeamAttack">TEAM ATTACK:</string>
+  <string name="ui.characterSelect.mainOption.Pause">PAUSE:</string>
+
+  <string name="ui.option.on">ON</string>
+  <string name="ui.option.off">OFF</string>
+
+  <string name="ui.option.unlimitedTime">NO LIMIT</string>
+
+  <string name="ui.progression.skillRating">SKILL RATING</string>
+  <string name="ui.progression.lootBoxEarned">PORTAL PACK EARNED!</string>
+	<string name="ui.progression.rewardsEarned">#* EARNED! #*</string>
+  <string name="ui.progression.level">LEVEL {0}</string>
+  <string name="ui.progression.firstWinBonus">FIRST WIN BONUS</string>
+
+  <string name="ui.playerCursor">P#*</string>
+
+	<string name="ui.customLobby.title">CUSTOM MATCH</string>
+  <string name="ui.customLobby.title.inProgress">MATCH IN PROGRESS</string>
+  <string name="ui.customLobby.timeLeft">TIME LEFT: </string>
+	<string name="ui.customLobby.createRoom">CREATE ROOM</string>
+	<string name="ui.customLobby.findRoom">JOIN ROOM</string>
+	<string name="ui.customLobby.leaveDialog.title">LEAVE LOBBY</string>
+	<string name="ui.customLobby.leaveDialog.body">Are you sure you want to leave the lobby?</string>
+	<string name="ui.customLobby.leave">LEAVE</string>
+	<string name="ui.customLobby.enter">START MATCH</string>
+  <string name="ui.customLobby.join">JOIN GAME</string>
+  <string name="ui.customLobby.invite">INVITE FRIENDS</string>
+	<string name="ui.customLobby.openChat">OPEN CHAT</string>
+	<string name="ui.customLobby.playerCount">#*/#*</string>
+
+	<string name="ui.customLobby.validationError.NAME_TOO_SHORT">Name too short</string>
+	<string name="ui.customLobby.validationError.PASSWORD_TOO_SHORT">Password too short</string>
+	
+	<string name="ui.customLobby.serverError.invalidCredentials.title">INCORRECT ROOM NAME OR PASSWORD</string>
+	<string name="ui.customLobby.serverError.invalidCredentials.body">Either there is currently no room using the name &lt;b&gt;&lt;size=110%&gt;#*&lt;size=100%&gt;&lt;/b&gt; or the password that you provided is incorrect.</string>
+	<string name="ui.customLobby.serverError.lobbyFull.title">ROOM IS FULL</string>
+	<string name="ui.customLobby.serverError.lobbyFull.body">No more players can currently join the room.</string>
+	<string name="ui.customLobby.serverError.lobbyNameTaken.title">ROOM NAME ALREADY IN USE</string>
+	<string name="ui.customLobby.serverError.lobbyNameTaken.body">A room has already been created using the name &lt;b&gt;&lt;size=110%&gt;#*&lt;size=100%&gt;&lt;/b&gt;. Try a different name.</string>
+	<string name="ui.customLobby.serverError.failedInLobby.title">IN LOBBY</string>
+	<string name="ui.customLobby.serverError.failedInLobby.body">You are already in a lobby. Please restart your client to join a new lobby.</string>
+	<string name="ui.customLobby.serverError.failedInMatch.title">IN MATCH</string>
+	<string name="ui.customLobby.serverError.failedInMatch.body">You are already in a match. Please restart your client to join a new match.</string>
+	<string name="ui.customLobby.serverError.matchRunning.title">MATCH IN PROGRESS</string>
+	<string name="ui.customLobby.serverError.matchRunning.body">Unable to join. The lobby is currently running a match.</string>
+	<string name="ui.customLobby.serverError.createSystemError.title">STEAM ERROR</string>
+	<string name="ui.customLobby.serverError.createSystemError.body">Steam error. Failed to create a lobby. Try logging in to steam again.</string>
+	<string name="ui.customLobby.serverError.joinSystemError.title">SYSTEM ERROR</string>
+	<string name="ui.customLobby.serverError.joinSystemError.body">System error. Please restart the game to join a new match.</string>
+
+	<string name="ui.customLobby.serverMessage.ownerLeft.title">OWNER LEFT</string>
+  <string name="ui.customLobby.serverMessage.ownerLeft.body">The room has been destroyed because the owner left.</string>
+  <string name="ui.customLobby.serverMessage.ownerLeft.continue">OK</string>
+
+  <string name="ui.feedback.title">ICONS FEEDBACK</string>
+  <string name="ui.feedback.body">The best way for us to improve the game is to listen to your feedback. Tell us about bugs, give suggestions, or just leave a comment.</string>
+  <string name="ui.feedback.confirm">SUBMIT</string>
+  <string name="ui.feedback.cancel">CANCEL</string>
+
+  <string name="ui.feedbackSent.title">FEEDBACK SUBMITTED</string>
+  <string name="ui.feedbackSent.body">Your message has been sent, thank you!</string>
+  <string name="ui.feedbackError.title">CONNECTION ERROR</string>
+  <string name="ui.feedbackError.body">There was an error sending your feedback. If this problem persists please let us know!</string>
+  <string name="ui.feedbackError.continue">OK</string>
+
+  <string name="ui.feedbackSending.title">SENDING</string>
+
+  <string name="ui.credits.back">BACK</string>
+
+	<string name="ui.lobbyDialog.create.title">CREATE A CUSTOM LOBBY</string>
+	<string name="ui.lobbyDialog.join.title">JOIN A CUSTOM LOBBY</string>
+	<string name="ui.lobbyDialog.enterLobbyName">ENTER LOBBY NAME:</string>
+	<string name="ui.lobbyDialog.enterLobbyPassword">ENTER LOBBY PASSWORD: (optional)</string>
+  <string name="ui.lobbyDialog.filterLobbyName">FILTER LOBBY BY NAME:</string>
+	<string name="ui.lobbyDialog.create.confirm">CREATE</string>
+	<string name="ui.lobbyDialog.join.confirm">JOIN</string>
+	<string name="ui.lobbyDialog.cancel">CANCEL</string>
+	<string name="ui.lobbyDialog.joinPrivate">JOIN FRIEND</string>
+	<string name="ui.lobbyDialog.refreshLobbyList">REFRESH</string>
+	<string name="ui.lobbyDialog.lobbyType.k_ELobbyTypePrivate">INVITE ONLY</string>
+	<string name="ui.lobbyDialog.lobbyType.k_ELobbyTypeFriendsOnly">FRIENDS</string>
+	<string name="ui.lobbyDialog.lobbyType.k_ELobbyTypePublic">PUBLIC</string>
+	<string name="ui.lobbyDialog.join.title.k_EChatRoomEnterResponseFull">LOBBY FULL</string>
+	<string name="ui.lobbyDialog.join.title.k_EChatRoomEnterResponseNotAllowed">MATCH STARTED</string>
+	<string name="ui.lobbyDialog.join.title.k_EChatRoomEnterResponseDoesntExist">HOST LEFT</string>
+	<string name="ui.lobbyDialog.join.title.unknown">STEAM ERROR</string>
+	<string name="ui.lobbyDialog.join.body.k_EChatRoomEnterResponseFull">Lobby is full.</string>
+	<string name="ui.lobbyDialog.join.body.k_EChatRoomEnterResponseNotAllowed">Unable to join because the match has already started.</string>
+	<string name="ui.lobbyDialog.join.body.k_EChatRoomEnterResponseDoesntExist">Host has left the lobby.</string>
+	<string name="ui.lobbyDialog.join.body.unknown">Steam has encountered and error joining the match</string>
+	
+	<string name="ui.characterSelect.moreOptions.title">MORE OPTIONS</string>
+  <string name="ui.characterSelect.moreOptions.profileListTitle">SAVED RULE SETS</string>
+  <string name="ui.characterSelect.moreOptions.noSavedProfiles">NO RULE SETS SAVED</string>
+  <string name="ui.characterSelect.moreOptions.createNewProfileTitle">CREATE NEW RULE SET</string>
+  <string name="ui.characterSelect.moreOptions.cancel">CANCEL</string>
+  <string name="ui.characterSelect.moreOptions.save">SAVE</string>
+  <string name="ui.characterSelect.moreOptions.mustNameProfile">Please label your rule set.</string>
+  
+  <string name="gameRules.FreeForAll">COMPETITIVE</string>
+  <string name="gameRules.Teams">TEAMS</string>
+  <string name="gameRules.Testing">TESTING</string>
+
+  <string name="gameRules.subtitle.FreeForAll">FREE FOR ALL</string>
+  <string name="gameRules.subtitle.Teams">TEAM BATTLE</string>
+  <string name="gameRules.subtitle.Testing">TESTING BATTLE</string>
+  
+  <string name="gameMode.Stock">STOCK</string>
+  <string name="gameMode.Time">TIME</string>
+
+  <string name="lobbyGameMode.Friendlies">FRIENDLIES</string>
+  <string name="lobbyGameMode.Teams">TEAMS</string>
+  <string name="lobbyGameMode.TeamAssist">TAG TEAM</string>
+  <string name="lobbyGameMode.Gauntlet">GAUNTLET</string>
+  <string name="lobbyGameMode.Limitless">LIMITLESS</string>
+  <string name="lobbyGameMode.NeutralFrenzy">FRENZY</string>
+  <string name="lobbyGameMode.Footsies">FOOTSIES</string>
+  <string name="lobbyGameMode.Permaspark">TRAINING</string>
+  <string name="lobbyGameMode.Stock">COMPETITIVE</string>
+  <string name="lobbyGameMode.EndGame">ENDGAME</string>
+  <string name="lobbyGameMode.BigHead">BIGHEAD</string>
+
+  <string name="pauseMode.Allowed">ALLOWED</string>
+  <string name="pauseMode.Disabled">DISABLED</string>
+  
+  <string name="team.Blue">BLUE TEAM</string>
+  <string name="team.Red">RED TEAM</string>
+  <string name="team.Green">GREEN TEAM</string>
+  <string name="team.Yellow">YELLOW TEAM</string>
+  <string name="team.Purple">PURPLE TEAM</string>
+
+  <string name="optionsProfile.name.default">DEFAULT</string>
+
+  <string name="ui.characterSelect.character.random">RANDOM</string>
+	
+	<string name="dialog.FrameController.FatalError.title">OOP!</string>
+	<string name="dialog.FrameController.FatalError.body">Thank you for your patience. An error forced the game to exit. Please test if you can repeat the error if it is not connection related.</string>
+
+	<string name="dialog.invalidChar.title">INVALID CHARACTER</string>
+  <string name="dialog.invalidChar.body">Names may only contain letters, numbers and spaces.</string>
+  <string name="dialog.tooShort.title">TOO SHORT</string>
+  <string name="dialog.tooShort.body">Names must be at least #* letters long.</string>
+  <string name="dialog.saveError.title">UNKNOWN ERROR</string>
+  <string name="dialog.saveError.body">Something went wrong with saving your data. Please try again!</string>
+  <string name="dialog.cannotDeleteLastProfile.title">CANNOT DELETE</string>
+  <string name="dialog.cannotDeleteLastProfile.body">You must keep at least one options profile.</string>
+	<string name="dialog.OnlineGame.LockedIn.title">LOCKED IN</string>
+	<string name="dialog.OnlineGame.LockedIn.body">You cannot leave while locked in</string>
+	<string name="dialog.OnlineGame.Error.title">OOP!</string>
+	<string name="dialog.OnlineGame.Error.Desync.body">Thank you for your patience. An error forced the game to exit. Please test if you can repeat the error if it is not connection related.</string>
+	<string name="dialog.OnlineGame.Error.Disconnect.body">A player was disconnected during the match.</string>
+	<string name="dialog.OnlineGame.Error.InExistingMatch.body">You were queued into a match while already in one.</string>
+	<string name="dialog.OnlineGame.Error.Abandoned.body">You have abandoned the match</string>
+	<string name="dialog.OnlineGame.Error.AFKSelection.body">You were kicked because a character wasn't selected</string>
+	<string name="dialog.OnlineGame.Error.Mismatch.body">This lobby is on a different Beta Code. Check #Getting-Started on Discord to access the same Beta Code.</string>
+	<string name="dialog.OnlineGame.Error.QueueFailure.body">There was a failure in the queue. Try again in a few minutes.</string>
+	<string name="dialog.OnlineGame.Error.ServerMatchFailure.body">There was a failure which caused the match to end.</string>
+	<string name="dialog.OnlineGame.Error.UDPFailure.body">Failed to establish a UDP connection. Check your connection and firewall settings. If the problem persists, read our FAQ on discord or contact customer service for support</string>
+  <string name="dialog.OnlineGame.Error.NotInCSS.body">Not all players are on the character select screen.</string>
+	<string name="dialog.JoinRoomFail.VersionMismatch.title">Join Room Failed</string>
+	<string name="dialog.JoinRoomFail.VersionMismatch.body">VERSION MISMATCH</string>
+	<string name="dialog.JoinRoomFail.AddPlayerFail.title">Join Room Failed</string>
+	<string name="dialog.JoinRoomFail.AddPlayerFail.body">Failed to add player to the room</string>
+  <string name="dialog.LobbyWaiting.title">Players Not Ready</string>
+  <string name="dialog.LobbyWaiting.body">All players must return to the lobby screen before starting the match.</string>
+
+  <string name="dialog.JoinQueueFail.ServiceNotReady.title">SERVERS UNAVAILABLE</string>
+  <string name="dialog.JoinQueueFail.ServiceNotReady.body">The matchmaking servers are currently offline. Please try again in a few minutes!</string>
+  <string name="dialog.JoinQueueFail.ServiceNotReady.ok">OK</string>
+
+  <string name="dialog.JoinQueueFail.Unknown.title">MATCHMAKING ERROR</string>
+  <string name="dialog.JoinQueueFail.Unknown.body">There was a problem joining the matchmaking queue. Please try again!</string>
+  <string name="dialog.JoinQueueFail.Unknown.ok">OK</string>
+
+	<string name="dialog.AutoJoinFail.title">JOIN FAILURE</string>
+	<string name="dialog.AutoJoinFail.InLobby.body">Cannot join the lobby as your are currently in a lobby</string>
+  <string name="dialog.continue">OK</string>
+  <string name="dialog.exit">EXIT</string>
+
+  <string name="dialog.profileDelete.title">ARE YOU SURE?</string>
+  <string name="dialog.profileDelete.body">Are you sure you want to delete this rule set?</string>
+  <string name="dialog.delete.cancel">CANCEL</string>
+  <string name="dialog.delete.confirm">DELETE</string>
+
+  <string name="dialog.tooManyProfiles.title">TOO MANY RULE SETS</string>
+  <string name="dialog.tooManyProfiles.body">You cannot have more than #* rule sets.</string>
+  
+  <string name="dialog.enteringGame.title">ENTERING GAME</string>
+  <string name="dialog.cancel">CANCEL</string>
+
+	<string name="dialog.leave">LEAVE</string>
+
+	<string name="dialog.mainMenu.promptLeaveQueue.title">LEAVE QUEUE</string>
+	<string name="dialog.mainMenu.promptLeaveQueue.body">Are you sure you want to quit the current matchmaking queue?</string>
+	<string name="dialog.mainMenu.promptLeaveQueue.confirm">QUIT</string>
+	<string name="dialog.mainMenu.promptLeaveQueue.cancel">CANCEL</string>
+
+	<string name="victory.title.forfeit">FORFEIT</string>
+	<string name="victory.title.noVictor">DRAW</string>
+  <string name="victory.title.delimiter"> AND </string>
+  <string name="victory.title.win.singular"> WINS!</string>
+  <string name="victory.title.win.plural"> WIN!</string>
+
+  <string name="ui.victoryScreen.continue">CONTINUE</string>
+	<string name="ui.victoryScreen.requeue">REQUEUE</string>
+	<string name="ui.victoryScreen.openLootBox">OPEN PORTAL PACK</string>
+	<string name="ui.victoryScreen.instantRematch">INSTANT REMATCH</string>
+  <string name="ui.victoryScreen.winner">VICTORY</string>
+	<string name="ui.victoryScreen.reporting">REPORTING</string>
+	<string name="ui.victoryScreen.reportPoorQuality">REPORT POOR MATCH</string>
+	<string name="ui.victoryScreen.reportGoodQuality">REPORT GOOD MATCH</string>
+  <string name="ui.victoryScreen.stat.MaxRound">BEST STREAK</string>
+  <string name="ui.victoryScreen.stat.NeutralWins">NEUTRALS WON</string>
+  <string name="ui.victoryScreen.stat.openSuccessRate">% START COMBOS</string>
+  <string name="ui.victoryScreen.stat.Combos">COMBOS STARTED</string>
+  <string name="ui.victoryScreen.stat.closeSuccessRate">% OF COMBOS KO</string>
+  <string name="ui.victoryScreen.stat.postOpenHits">ATTACKS/COMBO</string>
+  <string name="ui.victoryScreen.stat.AttacksPerMin">ATTACKS/MIN</string>
+  <string name="ui.victoryScreen.stat.NeutralWinsPerKO">NEUTRALS/KO</string>
+  <string name="ui.victoryScreen.stat.SparksPerMin">SPARKS/MIN</string>
+  <string name="ui.victoryScreen.stat.SparkRate">SPARK RATE</string>
+  <string name="ui.victoryScreen.stat.SparksUsed">SPARKS USED</string>
+  <string name="ui.victoryScreen.stat.Kill">KNOCK OUTS</string>
+  <string name="ui.victoryScreen.stat.MaxCombo">MAX COMBO HITS</string>
+  <string name="ui.victoryScreen.stat.Counters">COUNTERATTACKS</string>
+  <string name="ui.victoryScreen.stat.Death">FALLS</string>
+  <string name="ui.victoryScreen.stat.Suicide">SELF DESTRUCTS</string>
+
+  <string name="ui.store.title">CUSTOMIZE (PORT 0#*)</string>
+
+  <string name="ui.store.tab.title.FEATURED">FEATURED</string>
+  <string name="ui.store.tab.title.LOOT_BOXES">PORTAL PACKS</string>
+  <string name="ui.store.tab.title.BUNDLES">BUNDLES</string>
+  <string name="ui.store.tab.title.CHARACTERS">CHARACTERS</string>
+  <string name="ui.store.tab.title.COLLECTIBLES">COLLECTIBLES</string>
+
+  <string name="ui.store.characters.unlock">UNLOCK</string>
+  <string name="ui.store.characters.unlock.controller">[ A ] UNLOCK</string>
+  <string name="ui.store.characters.available_in">AVAILABLE IN</string>
+  <string name="ui.store.characters.available_in.controller">[ Y ] AVAILABLE IN</string>
+  <string name="ui.store.characters.equip">EQUIP</string>
+  <string name="ui.store.characters.equipped">EQUIPPED</string>
+  <string name="ui.store.characters.equip.controller">[A] EQUIP</string>
+  <string name="ui.store.characters.unlockCharacter">UNLOCK #*</string>
+
+	<string name="ui.store.characters.unlockSelection.title">GET #*</string>
+	<string name="ui.store.characters.unlockSelection.body">Buy character with Currency or Spectra:</string>
+	<string name="ui.store.characters.unlockSelection.or">OR</string>
+ 
+  <string name="ui.store.characters.unlockSelection.useUnlockToken">Use Character Unlock Token</string>
+	<string name="ui.store.characters.unlockSelection.proAccountCost">#* #* PRO ACCOUNT</string>
+	<string name="ui.store.characters.unlockSelection.proAccountDescription">Unlock all current and future characters</string>
+	<string name="ui.store.characters.unlockSelection.footnote">Try before you buy! #* is available in training mode.</string>
+
+	<string name="ui.store.characters.unlockSelection.purchase">PURCHASE</string>
+  <string name="ui.store.characters.unlockSelection.unlock">USE</string>
+	<string name="ui.store.characters.unlockSelection.cancel">CANCEL</string>
+
+  <string name="ui.store.characters.unlockSelection.haveUnlockToken">Are you sure you want to unlock &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; for &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt;? You have #* remaining.</string>
+  <string name="ui.store.characters.unlockSelection.token">#* token</string>
+  <string name="ui.store.characters.unlockSelection.tokens">#* tokens</string>
+
+	<string name="ui.store.characters.unlockConfirm.title">PURCHASE</string>
+	<string name="ui.store.characters.unlockConfirm.timedTitle">PURCHASE &lt;size=50%&gt;&lt;font="Lato-Regular SDF"&gt;IN&lt;/font&gt;&lt;size=100%&gt;</string>
+  <string name="ui.store.characters.unlockConfirm.body">Are you sure you want to unlock &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; for &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt;&lt;sprite=0&gt; ?</string>
+	<string name="ui.store.characters.unlockConfirm.confirm">UNLOCK</string>
+  <string name="ui.store.characters.unlockConfirm.cancel">CANCEL</string>
+  <string name="ui.store.characters.unlockConfirm.ok">OK</string>
+
+	<string name="ui.store.characters.unlockConfirmWithoutCharacter.title">CHARACTER NOT OWNED</string>
+	<string name="ui.store.characters.unlockConfirmWithoutCharacter.body">YOU DO NOT OWN &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; are you sure you want to unlock &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; for &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt;&lt;sprite=0&gt; ?</string>
+	<string name="ui.store.characters.unlockConfirmWithoutCharacter.confirm">UNLOCK</string>
+	<string name="ui.store.characters.unlockConfirmWithoutCharacter.cancel">CANCEL</string>
+
+  <string name="ui.store.featured.alreadyBought.title">THANK YOU</string>
+  <string name="ui.store.featured.alreadyBought.body">Thank you for your support, see you in the arena.</string>
+  
+  <string name="ui.store.foundersPack.title">FOUNDER'S PACK</string>
+  <string name="ui.store.foundersPack.desc">Included: PRO ACCOUNT (Unlock all current and future characters), 5 Portal Packs, Ashani Wavedash Skin &amp; Beta Player Icon</string>
+
+  <string name="ui.store.proAccount.title">PRO ACCOUNT</string>
+  <string name="ui.store.proAccount.desc">Unlock all current and future characters</string>
+
+  <string name="ui.store.lootbox25Bundle.title">25 PORTAL PACKS</string>
+  <string name="ui.store.lootbox25Bundle.desc"></string>
+
+  <string name="ui.store.lootbox55Bundle.title">55 PORTAL PACKS</string>
+  <string name="ui.store.lootbox55Bundle.desc"></string>
+
+  <string name="ui.store.characters.unlockCharConfirm.title">PURCHASE</string>
+	<string name="ui.store.characters.unlockCharConfirm.timedTitle">PURCHASE &lt;size=50%&gt;&lt;font="Lato-Regular SDF"&gt;IN&lt;/font&gt;&lt;size=100%&gt;</string>
+  <string name="ui.store.characters.unlockCharConfirm.body">Are you sure you want to unlock &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; for &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; &lt;sprite=0&gt; ?</string>
+  <string name="ui.store.characters.unlockCharConfirm.confirm">UNLOCK</string>
+  <string name="ui.store.characters.unlockCharConfirm.cancel">CANCEL</string>
+
+  <string name="ui.store.characters.unlockCharPrompt.title">CHARACTER REQUIRED</string>
+  <string name="ui.store.characters.unlockCharPrompt.body">You must unlock this character to proceed. Unlock &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; for &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/&gt;&lt;size=100%&gt;?</string>
+  <string name="ui.store.characters.unlockCharPrompt.confirm">BUY</string>
+  <string name="ui.store.characters.unlockCharPrompt.cancel">CANCEL</string>
+
+	<string name="ui.store.characters.checkout.title">CHECKOUT</string>
+	<string name="ui.store.characters.checkout.prompt">You're purchasing:</string>
+  <string name="ui.store.characters.checkout.tokenprompt">You're unlocking:</string>
+	<string name="ui.store.characters.checkout.description">#* CHARACTER</string>
+	<string name="ui.store.proAccount.checkout.description">PRO ACCOUNT</string>
+  <string name="ui.store.foundersPack.checkout.description">FOUNDER'S PACK</string>
+  <string name="ui.store.foundersPack.checkout.extraDescription">&#10;Pro Account, 5 Portal Packs, Ashani Wavedash Skin, Beta Player Icon&#10;&#10;</string>
+	<string name="ui.store.characters.checkout.total">TOTAL: #*</string>
+	<string name="ui.store.characters.checkout.disclaimer">By clicking &lt;i&gt;Continue&lt;/i&gt;  you agree to the &lt;link="terms_of_service"&gt;&lt;b&gt;Terms of Service&lt;/b&gt;&lt;/link&gt; and &lt;link="privacy_policy"&gt;&lt;b&gt;Privacy Policy&lt;/b&gt;&lt;/link&gt;.</string>
+	<string name="ui.store.characters.checkout.confirm">CONTINUE</string>
+	<string name="ui.store.characters.checkout.cancel">CANCEL</string>
+
+	<string name="ui.store.characters.unlockLoading.title">PURCHASING...</string>
+  <string name="ui.store.proAccount.unlockLoading.title">PURCHASING...</string>
+  <string name="ui.store.foundersPack.unlockLoading.title">PURCHASING...</string>
+  <string name="ui.store.lootBox.unlockLoading.title">PURCHASING...</string>
+
+  <string name="ui.store.characters.unlockError.title">ERROR</string>
+  <string name="ui.store.characters.unlockError.body">There was a problem. Please try again!</string>
+  <string name="ui.store.characters.unlockError.confirm">OK</string>
+
+  <string name="ui.store.characters.unlockError.money.title">NOT ENOUGH SPECTRA</string>
+  <string name="ui.store.characters.unlockError.money.body">You can earn more Spectra from Portal Packs!</string>
+  <string name="ui.store.characters.unlockError.money.confirm">OK</string>
+
+  <string name="ui.store.characters.unlockError.moneyDesync.title">DESYNC</string>
+  <string name="ui.store.characters.unlockError.moneyDesync.body">Your Spectra count has become desynchronized from the server. You have been returned to the main menu.</string>
+  <string name="ui.store.characters.unlockError.moneyDesync.confirm">OK</string>
+
+  <string name="ui.store.unboxing.equip">EQUIP</string>
+  
+  <string name="ui.store.unboxing.openDesync.title">DESYNC</string>
+  <string name="ui.store.unboxing.openDesync.body">Something went wrong and your client is out of sync. You will be returned to the login page.</string>
+  <string name="ui.store.unboxing.openDesync.confirm">OK</string>
+
+  <string name="ui.store.unboxing.openError.title">ERROR</string>
+  <string name="ui.store.unboxing.openError.body">An unknown error occurred. Please try again!</string>
+  <string name="ui.store.unboxing.openError.confirm">OK</string>
+
+  <string name="ui.store.characters.unlockError.loggedOut.title">CONNECTION INVALID</string>
+  <string name="ui.store.characters.unlockError.loggedOut.body">You have been unexpectedly logged out of the game.</string>
+  <string name="ui.store.characters.unlockError.loggedOut.confirm">OK</string>
+
+  <string name="ui.store.characters.unlockError.update.title">OOPS</string>
+  <string name="ui.store.characters.unlockError.update.body">Seems that the store has been updated. Please re-enter the store and try again!</string>
+  <string name="ui.store.characters.unlockError.update.confirm">OK</string>
+
+  <string name="ui.store.steamOverlayDisabled.title">CANNOT PURCHASE</string>
+  <string name="ui.store.steamOverlayDisabled.body">You cannot make a purchase because the Steam overlay cannot be raised. Please enable the overlay in your Steam settings.</string>
+  
+  <string name="ui.store.proAccount.unlockError.title">ERROR</string>
+  <string name="ui.store.proAccount.unlockError.body">There was a problem. Please try again!</string>
+  <string name="ui.store.proAccount.unlockError.confirm">OK</string>
+
+  <string name="ui.store.lootBox.unlockError.confirm">OK</string>
+  
+	<string name="ui.store.characters.unlockSuccess.title">SUCCESS</string>
+	<string name="ui.store.characters.unlockSuccess.body">New #* added to your collection &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt; !</string>
+	<string name="ui.store.characters.unlockSuccess.confirm">OK</string>
+	<string name="ui.store.characters.unlockSuccess.equip">EQUIP</string>
+
+	<string name="ui.store.proAccount.detailedUnlockSuccess.title">THANK YOU</string>
+	<string name="ui.store.proAccount.detailedUnlockSuccess.prompt">You purchased:</string>
+	<string name="ui.store.proAccount.detailedUnlockSuccess.confirm">DONE</string>
+
+	<string name="ui.store.characters.new">NEW</string>
+
+  <string name="ui.store.characters.proAccount.title">&lt;sprite=0&gt; PRO ACCOUNT</string>
+  <string name="ui.store.characters.proAccount.body">Unlock all current and future characters for only &lt;size=110%&gt;&lt;font="LeagueSpartan-Bold SDF"&gt;#*&lt;/font&gt;&lt;size=100%&gt;</string>
+
+  <string name="ui.mainMenu.version">VERSION #*</string>
+  <string name="ui.mainMenu.select">SELECT</string>
+
+  <string name="ui.store.navigate">NAVIGATE</string>
+  
+  <string name="ui.store.netsuke.title">PLACE YOUR CHARM</string>
+  <string name="ui.store.netsuke.confirm">DONE</string>
+  <string name="ui.store.netsuke.cancel">CANCEL</string>
+  <string name="ui.store.netsuke.empty">EMPTY</string>
+
+  <string name="ui.store.lootBoxes.open">OPEN PORTAL PACKS</string>
+  <string name="ui.store.lootBoxes.buy">BUY PORTAL PACKS</string>
+
+  <string name="ui.store.lootBox.title">#* PORTAL PACKS</string>
+  
+  <string name="ui.store.unboxing.open">OPEN PORTAL PACK</string>
+  <string name="ui.store.unboxing.buy">BUY PORTAL PACK</string>
+  <string name="ui.store.unboxing.quantity">#* PORTAL PACKS UNOPENED</string>
+  
+  <string name="ui.store.gallerySpinDisabled.error">We've disabled model rotation in the gallery due to continuous detection of right stick inputs. This may be the result of a faulty vjoy driver. Visit our &lt;link="faq_vjoy"&gt;&lt;b&gt;&lt;u&gt;FAQ&lt;/u&gt;&lt;/b&gt;&lt;/link&gt; for more info.</string>
+  
+  <string name="ui.settings.title">SETTINGS</string>
+  <string name="ui.settings.back">SETTINGS</string>
+
+  <string name="ui.settings.tab.title.GAMEPLAY">GAMEPLAY</string>
+  <string name="ui.settings.tab.title.BATTLE">BATTLE</string>
+  <string name="ui.settings.tab.title.CONTROLS">CONTROLS</string>
+  <string name="ui.settings.tab.title.VIDEO">VIDEO</string>
+  <string name="ui.settings.tab.title.AUDIO">AUDIO</string>
+
+	<string name="ui.settings.saved">SETTINGS SAVED</string>
+
+  <string name="ui.settings.resetWarning.title">RESET SETTINGS</string>
+  <string name="ui.settings.resetWarning.body">Are you sure you want to reset all settings to default?</string>
+  <string name="ui.settings.resetWarning.confirm">YES</string>
+  <string name="ui.settings.resetWarning.cancel">NO</string>
+
+	<string name="ui.settings.notSavedWarning.title">UNSAVED CONTROLS</string>
+	<string name="ui.settings.notSavedWarning.body">Do you want to save unsaved controls settings?</string>
+	<string name="ui.settings.notSavedWarning.confirm">YES</string>
+	<string name="ui.settings.notSavedWarning.cancel">NO</string>
+
+	<string name="ui.settings.movementUnbound.title">UNSAVED CONTROLS</string>
+	<string name="ui.settings.movementUnbound.body">Are you sure you want to leave? Your controls settings cannot be saved since movement is unbound.</string>
+	<string name="ui.settings.movementUnbound.confirm">YES</string>
+	<string name="ui.settings.movementUnbound.cancel">NO</string>
+
+	<string name="ui.settings.reset">RESET TO DEFAULT</string>
+	<string name="ui.settings.save">SAVE</string>
+
+  
+  <string name="ui.settings.controls.GameCube Controller">GAMECUBE CONTROLLER</string>
+  <string name="ui.settings.controls.XBox One Controller">XBOX ONE CONTROLLER</string>
+  <string name="ui.settings.controls.PlayStation 4 Controller">PS4 CONTROLLER</string>
+  <string name="ui.settings.controls.Xbox 360 Controller">XBOX 360 CONTROLLER</string>
+  <string name="ui.settings.controls.Hori Pad">Hori Pad S CONTROLLER</string>
+  <string name="ui.settings.controls.Magic-NS (Green Mode)">Magic-NS (Green Mode)</string>
+  <string name="ui.settings.controls.VJoy Device">VJoy Controller</string>
+  <string name="ui.settings.controls.Tribute 64">Tribute 64</string>
+  <string name="ui.settings.controls.Hama Black Force Controller">Hama Black Force Controller</string>
+  <string name="ui.settings.controls.PlayStation 3 Controller">PlayStation 3 Controller</string>
+
+  <string name="ui.settings.controls.XInput Controller">XINPUT CONTROLLER</string>
+  <string name="ui.settings.controls.keyboard">KEYBOARD</string>
+  <string name="ui.settings.controls.unknown">UNKNOWN</string>
+  <string name="ui.settings.controls.advancedControls">ADVANCED CONTROLS</string>
+  <string name="ui.settings.controls.swapControls">SWAP CONTROLS</string>
+  
+	<string name="ui.settings.controls.Attack">ATTACK (ASSIST AS SUPPORT)</string>
+  <string name="ui.settings.controls.Special">SPECIAL (POWERPLAY AS SUPPORT)</string>
+	<string name="ui.settings.controls.Strike">STRIKE</string>
+  <string name="ui.settings.controls.LightAttack">ATTACK</string>
+  <string name="ui.settings.controls.Grab">GRAB</string>
+  <string name="ui.settings.controls.Jump">JUMP</string>
+	<string name="ui.settings.controls.Shield1"> BLOCK (REFLECT AS SUPPORT)</string>
+	<string name="ui.settings.controls.Shield2">SHIELD</string>
+	<string name="ui.settings.controls.Wavedash">RUSH</string>
+	<string name="ui.settings.controls.FullJump">FULL JUMP</string>
+	<string name="ui.settings.controls.ShortJump">SHORT JUMP</string>
+	<string name="ui.settings.controls.Tilt">TILT MODIFIER</string>
+  <string name="ui.settings.controls.SoloAssist">SOLO ASSISTS</string>
+  <string name="ui.settings.controls.SoloGust">REFLECT (SOLO)</string>
+
+  <string name="ui.settings.controls.Up">UP</string>
+  <string name="ui.settings.controls.Backward">LEFT</string>
+  <string name="ui.settings.controls.Down">DOWN</string>
+  <string name="ui.settings.controls.Forward">RIGHT</string>
+
+	<string name="ui.settings.controls.TauntUp">EMOTE UP</string>
+	<string name="ui.settings.controls.TauntLeft">EMOTE LEFT</string>
+	<string name="ui.settings.controls.TauntDown">EMOTE DOWN</string>
+	<string name="ui.settings.controls.TauntRight">EMOTE RIGHT</string>
+
+	<string name="ui.settings.controls.UpStrike">STRIKE UP</string>
+	<string name="ui.settings.controls.BackwardStrike">STRIKE LEFT</string>
+	<string name="ui.settings.controls.DownStrike">STRIKE DOWN</string>
+	<string name="ui.settings.controls.ForwardStrike">STRIKE RIGHT</string>
+
+	<string name="ui.settings.controls.UpTilt">TILT UP</string>
+	<string name="ui.settings.controls.BackwardTilt">TILT LEFT</string>
+	<string name="ui.settings.controls.DownTilt">TILT DOWN</string>
+	<string name="ui.settings.controls.ForwardTilt">TILT RIGHT</string>
+
+	<string name="ui.settings.controls.UpSpecial">SPECIAL UP</string>
+	<string name="ui.settings.controls.BackwardSpecial">SPECIAL LEFT</string>
+	<string name="ui.settings.controls.DownSpecial">SPECIAL DOWN</string>
+	<string name="ui.settings.controls.ForwardSpecial">SPECIAL RIGHT</string>
+
+  <string name="ui.settings.controls.offlineInputDelay">OFFLINE INPUT DELAY</string>
+  <string name="ui.settings.controls.tapJump">TAP JUMP</string>
+  <string name="ui.settings.controls.cancelDashSustain">CHUNKY AERIALS</string>
+	<string name="ui.settings.controls.tapStrike">TAP STRIKE</string>
+  <string name="ui.settings.controls.autoFastFall">AUTO FAST FALL</string>
+  <string name="ui.settings.controls.attackAssist">EASY AIM</string>
+  <string name="ui.settings.controls.autoCancel">SMOOTH SPARK</string>
+	<string name="ui.settings.controls.doubleTapToRun">DOUBLE TAP TO RUN</string>
+  <string name="ui.settings.controls.recoveryJump">EASY RECOVERY</string>
+  <string name="ui.settings.controls.cStickCharge">STICK CHARGING</string>
+  <string name="ui.settings.controls.buttonCharge">BUTTON CHARGING</string>
+  <string name="ui.settings.controls.delayedRushDirection">SMOOTH RUSH DIR.</string>
+  <string name="ui.settings.controls.diagonalHorizontalPriorityEnabled">DIAG. TO HORIZONTAL</string>
+  <string name="ui.settings.controls.eightWayRightStickEnabled">EIGHT WAY SNAPPING</string>
+
+
+	<string name="ui.settings.controls.toggle.on">ON</string>
+	<string name="ui.settings.controls.toggle.off">OFF</string>
+
+	<string name="ui.settings.controls.unbound">&lt;b&gt;#*&lt;/b&gt; UNBOUND FROM &lt;b&gt;#*&lt;/b&gt;</string>
+	<string name="ui.settings.controls.ok">OK</string>
+	<string name="ui.settings.controls.reserved">CAN'T USE THAT BUTTON</string>
+
+	<string name="ui.settings.controls.movementUnbound">MOVEMENT MUST BE BOUND</string>
+
+	<string name="ui.dialog.advancedController.title">CONTROLLER SETTINGS: ADVANCED</string>
+	<string name="ui.dialog.advancedController.column1Title">DIRECTIONAL BINDINGS</string>
+	<string name="ui.dialog.advancedController.column2Title">SENSITIVITY</string>
+
+	<string name="ui.dialog.advancedController.movement">MOVEMENT</string>
+	<string name="ui.dialog.advancedController.tilts">TILTS</string>
+  <string name="ui.dialog.advancedController.strikes">DIR. ATTACKS</string>
+  <string name="ui.dialog.advancedController.specials">DIR. SPECIALS</string>
+	<string name="ui.dialog.advancedController.emotes">EMOTES</string>
+
+	<string name="ui.dialog.advancedController.None"></string>
+	<string name="ui.dialog.advancedController.RightStick">&lt;sprite="R Stick Glyph" name="R Stick Glyph"&gt;</string>
+	<string name="ui.dialog.advancedController.LeftStick">&lt;sprite="L Stick Glyph" name="L Stick Glyph"&gt;</string>
+	<string name="ui.dialog.advancedController.DPad">&lt;sprite="WiiU_Dpad" name="WiiU_Dpad"&gt;</string>
+	
+	<string name="ui.dialog.advancedController.leftStickDeadzone">LEFT STICK TILT</string>
+	<string name="ui.dialog.advancedController.rightStickDeadzone">RIGHT STICK TILT</string>
+	<string name="ui.dialog.advancedController.leftTrigger">LEFT TRIGGER</string>
+	<string name="ui.dialog.advancedController.rightTrigger">RIGHT TRIGGER</string>
+
+	<string name="ui.dialog.advancedController.leftStickDeadZone">LEFT STICK</string>
+	<string name="ui.dialog.advancedController.rightStickDeadZone">RIGHT STICK</string>
+	<string name="ui.dialog.advancedController.leftTriggerDeadZone">LEFT TRIGGER</string>
+	<string name="ui.dialog.advancedController.rightTriggerDeadZone">RIGHT TRIGGER</string>
+
+	<string name="ui.dialog.advancedControls.confirm">OK</string>
+  <string name="ui.dialog.advancedControls.reset">RESET TO DEFAULT</string>
+
+	<string name="ui.dialog.advancedKeyboard.title">KEYBOARD SETTINGS: ADVANCED</string>
+
+	<string name="ui.dialog.advancedKeyboard.Movement">MOVEMENT</string>
+	<string name="ui.dialog.advancedKeyboard.Tilts">TILTS</string>
+	<string name="ui.dialog.advancedKeyboard.Strikes">DIR. ATTACKS</string>
+	<string name="ui.dialog.advancedKeyboard.Specials">DIR. SPECIALS</string>
+	<string name="ui.dialog.advancedKeyboard.Emotes">EMOTES</string>
+
+	<string name="ui.dialog.advancedKeyboard.up">UP</string>
+	<string name="ui.dialog.advancedKeyboard.down">DOWN</string>
+	<string name="ui.dialog.advancedKeyboard.left">LEFT</string>
+	<string name="ui.dialog.advancedKeyboard.right">RIGHT</string>
+
+	<string name="ui.dialog.advancedKeyboard.confirm">OK</string>
+	<string name="ui.dialog.advancedKeyboard.reset">RESET TO DEFAULT</string>
+	
+	<string name="ui.audio.masterVolume">MASTER VOLUME</string>
+  <string name="ui.audio.bgm">BACKGROUND MUSIC</string>
+  <string name="ui.audio.sfx">SOUND EFFECTS</string>
+  <string name="ui.audio.voice">CHARACTER VOICES &amp; TAUNTS</string>
+  <string name="ui.audio.environment">ENVIRONMENT SOUND EFFECTS</string>
+  <string name="ui.audio.characterVoice">CHARACTER/ANNOUNCER VOICES</string>
+
+	<string name="ui.video.quality">QUALITY</string>
+	<string name="ui.video.quality.0">POTATO</string>
+	<string name="ui.video.quality.1">FAST</string>
+	<string name="ui.video.quality.2">SIMPLE</string>
+	<string name="ui.video.quality.3">GOOD</string>
+	<string name="ui.video.quality.4">BEAUTIFUL</string>
+	<string name="ui.video.quality.5">FANTASTIC</string>
+	<string name="ui.video.quality.6">MARVELOUS</string>
+
+  <string name="ui.video.graphicsQuality">SHADER QUALITY</string>
+  <string name="ui.video.graphicsQuality.0">POTATO</string>
+  <string name="ui.video.graphicsQuality.1">MEDIUM</string>
+  <string name="ui.video.graphicsQuality.2">HIGH</string>
+  
+  <string name="ui.video.particleQuality">PARTICLES</string>
+  <string name="ui.video.stageQuality">STAGE</string>
+  <string name="ui.video.materialQuality">MATERIALS</string>
+  
+  <string name="ui.video.threeTierQuality.0">POTATO</string>
+  <string name="ui.video.threeTierQuality.1">MEDIUM</string>
+  <string name="ui.video.threeTierQuality.2">HIGH</string>
+
+	<string name="ui.video.resolution">RESOLUTION</string>
+  <string name="ui.video.resolution.option">#* x #*</string>
+  <string name="ui.video.resolution.custom">CUSTOM</string>
+
+	<string name="ui.video.windowMode.0">FULLSCREEN</string>
+	<string name="ui.video.windowMode.1">BORDERLESS</string>
+	<string name="ui.video.windowMode.2">WINDOWED</string>
+
+	<string name="ui.video.display">DISPLAY</string>
+	<string name="ui.video.display.option">DISPLAY #*</string>
+
+  <string name="ui.video.Language">LANGUAGE</string>
+    
+  <string name="ui.gameplay.muteEnemyHolos">MUTE ENEMY HOLOGRAMS</string>
+  <string name="ui.gameplay.muteEnemyVoicelines">MUTE ENEMY VOICELINES</string>
+  
+	<string name="ui.video.vsync">VSYNC</string>
+  <string name="ui.video.teamHighlights">TEAM HIGHLIGHTS</string>
+  <string name="ui.video.soloHighlights">SOLO HIGHLIGHTS</string>
+  <string name="ui.video.playerDamageNumbers">PLAYER DAMAGE NUMBERS</string>
+  <string name="ui.video.mixOutlines">MIX OUTLINES</string>
+  <string name="ui.video.limitFramerate">LOCK TO MAX FPS</string>
+  <string name="ui.video.msaa">MULTISAMPLE ANTI-ALIASING</string>
+  <string name="ui.video.visibleInBackground">VISIBLE IN BACKGROUND</string>
+  <string name="ui.video.showPerformance">DISPLAY PERFORMANCE</string>
+  <string name="ui.video.showSystemClock">DISPLAY SYSTEM CLOCK</string>
+  <string name="ui.video.fullScreen">FULLSCREEN MODE</string>
+  <string name="ui.video.windowMode">WINDOW MODE</string>
+  <string name="ui.video.mouseConfined">CONFINE MOUSE TO WINDOW</string>
+  <string name="ui.video.fogEffects">FOG EFFECTS</string>
+  <string name="ui.video.postProcessing">CAMERA POST-PROCESSING</string>
+  <string name="ui.video.motionBlur">MOTION BLUR</string>
+  <string name="ui.video.volumetricLighting">VOLUMETRIC LIGHTING</string>
+  <string name="ui.video.showRanking">DISPLAY 1V1 RANKING</string>
+  <string name="ui.dialog.equip.title">TAUNTS</string>
+  <string name="ui.dialog.equip.confirm">SAVE</string>
+  <string name="ui.dialog.equip.cancel">CANCEL</string>
+  <string name="ui.dialog.equip.unassigned">UNASSIGNED</string>
+  <string name="ui.dialog.buyLootBoxes.title">PORTAL PACKS</string>
+
+	<string name="dialog.Battle.promptLeaveMatch.title">LEAVE MATCH</string>
+	<string name="dialog.Battle.promptLeaveMatchLobbyLeader.body">Are you sure you want to leave the match? Leaving the match will also cause you to destroy the lobby</string>
+	<string name="dialog.Battle.promptLeaveMatchAndLobby.body">Are you sure you want to leave the match? Leaving the match will also cause you to leave the lobby</string>
+	<string name="dialog.Battle.promptLeaveMatch.body">Are you sure you want to leave the match?</string>
+	<string name="dialog.Battle.promptLeaveMatch.confirm">CONFIRM</string>
+	
+	<string name="ui.battle.center.fight">FIGHT!</string>
+  <string name="ui.battle.center.game">GAME!</string>
+  <string name="ui.battle.center.time">TIME!</string>
+  
+  <string name="gameData.stageSelect.temp">TEMP</string>
+	<string name="gameData.stageSelect.random">RANDOM</string>
+
+  <string name="controls.button.a">A</string>
+  <string name="controls.button.b">B</string>
+  <string name="controls.button.x">X</string>
+  <string name="controls.button.y">Y</string>
+  <string name="controls.button.leftTrigger">LT</string>
+  <string name="controls.button.rightTrigger">RT</string>
+  <string name="controls.button.leftBumper">LB</string>
+  <string name="controls.button.rightBumper">RB</string>
+  <string name="keyboard.button.q">Q</string>
+  <string name="keyboard.button.e">E</string>
+	<string name="keyboard.button.c">C</string>
+	<string name="keyboard.button.x">X</string>
+	<string name="keyboard.button.t">T</string>
+	<string name="keyboard.button.n">N</string>
+	<string name="keyboard.button.m">M</string>
+	<string name="keyboard.button.leftTrigger">[</string>
+	<string name="keyboard.button.rightTrigger">]</string>
+  <string name="keyboard.button.esc">ESC</string>
+  <string name="keyboard.button.enter">ENTER</string>
+
+  <string name="ui.input.binding.Gamecube.icon.Left Trigger">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube L"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.Right Trigger">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube R"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.X">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube X"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.Y">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube Y"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.A">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube A"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.B">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube B"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.Z">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube Z"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.Start">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube Start"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.DPad Down">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Down"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.DPad Left">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Left"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.DPad Up">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Up"&gt;</string>
+  <string name="ui.input.binding.Gamecube.icon.DPad Right">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Right"&gt;</string>
+
+  <string name="ui.input.binding.Xbox.icon.A">&lt;sprite="XboxButtonSpritesheet" name="Xbox A"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.B">&lt;sprite="XboxButtonSpritesheet" name="Xbox B"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.X">&lt;sprite="XboxButtonSpritesheet" name="Xbox X"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Y">&lt;sprite="XboxButtonSpritesheet" name="Xbox Y"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.DPad Left">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Left"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.DPad Right">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Right"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.DPad Up">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Up"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.DPad Down">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Down"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Left Bumper">&lt;sprite="XboxButtonSpritesheet" name="Xbox LB"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Left Trigger">&lt;sprite="XboxButtonSpritesheet" name="Xbox LT"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Left Stick Button">&lt;sprite="XboxButtonSpritesheet" name="Xbox L Stick"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Menu">&lt;sprite="XboxButtonSpritesheet" name="Xbox Menu"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Right Bumper">&lt;sprite="XboxButtonSpritesheet" name="Xbox RB"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Right Trigger">&lt;sprite="XboxButtonSpritesheet" name="Xbox RT"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.Right Stick Button">&lt;sprite="XboxButtonSpritesheet" name="Xbox R Stick"&gt;</string>
+  <string name="ui.input.binding.Xbox.icon.View">&lt;sprite="XboxButtonSpritesheet" name="Xbox Windows"&gt;</string>
+
+  <string name="ui.input.binding.Playstation.icon.Circle">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Circle"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.DPad Down">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Down"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.DPad Left">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Left"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.DPad Right">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Right"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.DPad Up">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Up"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Left Stick Button">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation L Stick"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Left Bumper">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation L1"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Left Trigger">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation L2"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Options">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Options"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Right Stick Button">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation R Stick"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Right Bumper">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation R1"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Right Trigger">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation R2"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Share">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Share"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Square">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Square"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.TouchPad Button">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation TouchPad"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Triangle">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Triangle"&gt;</string>
+  <string name="ui.input.binding.Playstation.icon.Cross">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation X"&gt;</string>
+
+  <string name="ui.input.binding.Keyboard.icon.Key0">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 0"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key1">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 1"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key2">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 2"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key3">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 3"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key4">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 4"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key5">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 5"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key6">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 6"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key7">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 7"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key8">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 8"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Key9">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 9"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad0">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 0"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad1">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 1"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad2">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 2"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad3">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 3"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad4">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 4"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad5">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 5"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad6">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 6"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad7">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 7"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad8">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 8"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad9">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 9"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.A">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard A"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.B">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard B"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.C">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard C"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.D">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard D"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.E">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard E"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.G">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard G"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.H">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard H"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.I">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard I"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.J">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard J"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.K">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard K"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.L">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard L"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.M">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard M"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.N">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard N"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.O">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard O"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.P">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard P"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Q">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Q"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.R">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard R"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.S">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard S"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.T">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard T"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.U">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard U"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.V">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard V"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.W">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard W"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.X">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard X"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Y">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Y"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Z">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Z"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F1">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F1"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F2">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F2"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F3">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F3"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F4">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F4"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F5">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F5"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F6">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F6"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F7">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F7"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F8">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F8"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F9">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F9"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F10">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F10"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F11">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F11"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.F12">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F12"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Left Alt">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Alt"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Right Alt">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Alt"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Down Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Down"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Left Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Left"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Right Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Right"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Up Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Up"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Asterisk">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Asterisk"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad Multiply">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Asterisk"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Backslash">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Backslash"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Backspace">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Backspace"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Bracket Left">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Bracket Left"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Bracket Right">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Bracket Right"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Caps Lock">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Caps Lock"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Left Command">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Command"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Left Control">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Ctrl"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Right Control">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Ctrl"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Del">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Del"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Delete">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Del"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.End">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard End"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Enter">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Enter"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Return">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Enter"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad Enter">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Enter"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Escape">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Esc"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Home">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Home"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Insert">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Insert"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Mark Left">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mark Left"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Mark Right">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mark Right"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Minus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Minus"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad Minus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Minus"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Mouse">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Mouse Left">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Left"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Mouse Middle">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Middle"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Mouse Right">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Right"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.NumLock">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Num Lock"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Page Down">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Page Down"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Page Up">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Page Up"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Plus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Plus"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad Plus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Plus"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Equals">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Plus"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Print Screen">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Print Screen"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Question">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Question"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Slash">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Question"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Pad Divide">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Question"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Quote">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Quote"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Semicolon">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Semicolon"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Shift">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Shift"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Left Shift">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Shift"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Right Shift">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Shift"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Space">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Space"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Tab">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Tab"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Backquote">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Tilde"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Right Command">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Windows"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Left Button">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Left"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Middle Button">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Middle"&gt;</string>
+  <string name="ui.input.binding.Keyboard.icon.Right Button">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Right"&gt;</string>
+
+  <string name="ui.input.binding.Crew.icon.A">&lt;sprite="CrewButtonSpritesheet" name="Crew A"&gt;</string>
+  <string name="ui.input.binding.Crew.icon.B">&lt;sprite="CrewButtonSpritesheet" name="Crew B"&gt;</string>
+  <string name="ui.input.binding.Crew.icon.X">&lt;sprite="CrewButtonSpritesheet" name="Crew X"&gt;</string>
+  <string name="ui.input.binding.Crew.icon.Y">&lt;sprite="CrewButtonSpritesheet" name="Crew Y"&gt;</string>
+  
+
+  <string name="equip.item.default">DEFAULT</string>
+
+  <string name="item.currency">SPECTRA</string>
+  <string name="item.duplicate">DUPLICATE</string>
+  
+  <string name="equipType.singular.SKIN">SKIN</string>
+  <string name="equipType.singular.EMOTE">EMOTE</string>
+  <string name="equipType.singular.VOICE_TAUNT">VOICE TAUNT</string>
+  <string name="equipType.singular.HOLOGRAM">HOLOGRAM</string>
+  <string name="equipType.singular.VICTORY_POSE">VICTORY POSE</string>
+  <string name="equipType.singular.PLATFORM">PLATFORM</string>
+  <string name="equipType.singular.ANNOUNCERS">ANNOUNCER</string>
+  <string name="equipType.singular.BLAST_ZONE">BLAST ZONE</string>
+  <string name="equipType.singular.LOADING_SCREEN">LOADING SCREEN</string>
+  <string name="equipType.singular.NETSUKE">CHARM</string>
+  <string name="equipType.singular.PLAYER_ICON">PLAYER ICON</string>
+  <string name="equipType.singular.TOKEN">TOKEN</string>
+  <string name="equipType.singular.CHARACTER">CHARACTER</string>
+  <string name="equipType.singular.UNLOCK_TOKEN">CHARACTER TOKEN</string>
+  <string name="equipType.singular.CURRENCY">SPECTRA</string>
+      
+  <string name="equipType.plural.SKIN">SKINS</string>
+  <string name="equipType.plural.EMOTE">EMOTES</string>
+  <string name="equipType.plural.VOICE_TAUNT">VOICE TAUNTS</string>
+  <string name="equipType.plural.HOLOGRAM">HOLOGRAMS</string>
+  <string name="equipType.plural.VICTORY_POSE">VICTORY POSES</string>
+  <string name="equipType.plural.PLATFORM">PLATFORMS</string>
+  <string name="equipType.plural.ANNOUNCERS">ANNOUNCERS</string>
+  <string name="equipType.plural.BLAST_ZONE">BLAST ZONES</string>
+  <string name="equipType.plural.LOADING_SCREEN">LOADING SCREENS</string>
+  <string name="equipType.plural.NETSUKE">CHARMS</string>
+  <string name="equipType.plural.PLAYER_ICON">PLAYER ICONS</string>
+  <string name="equipType.plural.TOKEN">TOKENS</string>
+  <string name="equipType.plural.UNLOCK_TOKEN">CHARACTER TOKENS</string>
+  <string name="equipType.plural.CURRENCY">SPECTRA</string>
+
+  <string name="equipment.name.disapproval">DISAPPROVAL</string>
+
+  <string name="playerCard.level">LVL #*</string>
+  
+  <string name="lobby.players">PLAYERS</string>
+  <string name="lobby.gauntletplayers">PLAYERS</string>
+  <string name="lobby.spectators">SPECTATORS</string>
+  <string name="lobby.team0">YELLOW TEAM</string>
+  <string name="lobby.team1">PURPLE TEAM</string>
+</resources>
