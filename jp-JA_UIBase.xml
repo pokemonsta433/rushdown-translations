@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="ui.nux.close">閉じる</string>
+    <string name="ui.nux.continue">次</string>
+    <string name="ui.nux.visitgallery">画廊</string>
+
+    <string name="ui.nux.welcome.title">早期アクセスへようこそ</string>　　　　　
+
+    <string name="ui.screen.loadFailed">ロードに問題が発生ました</string>
+
+    <string name="ui.paused.title">一時停止</string>
+    <string name="ui.paused.resume">履歴書</string>
+    <string name="ui.paused.settings">設定</string>
+    <string name="ui.paused.quit">出口</string>
+    <string name="ui.paused.pausedBy">： #*</string>
+    <string name="ui.paused.characterSelect">キャラクターセレクト</string>
+    <string name="ui.paused.stageSelect">ステージセレクト</string>
+    <string name="ui.paused.ai">CP:</string>
+    <string name="ui.paused.hitboxes">ヒットボックスの表示:</string>
+    <string name="ui.paused.frameAdvance">一枠を進む:</string>
+
+    <string name="ui.main.play">ゲームをする</string>
+    <string name="ui.main.train">トレーニング</string>
+    <string name="ui.main.gallery">カスタマイズ</string>
+    <string name="ui.main.replays">リプレイを見る</string>
+    <string name="ui.main.settings">設定</string>
+    <string name="ui.main.feedback">フィードバック</string>
+    <string name="ui.main.quit">終了する</string>
+    <string name="ui.main.credits">クレジット</string>
+
+    <string name="ui.main.submenu.header_local">ローカル</string>
+    <string name="ui.main.submenu.play_local">ゲームをする</string>
+    <string name="ui.main.submenu.header_online">オンライン</string>
+    <string name="ui.main.submenu.header_online_casual">優しい</string>
+    <string name="ui.main.submenu.header_custom_lobbies">カスタムロビー</string>
+    <string name="ui.main.submenu.play_online_casual_1v1">1 V 1</string>
+    <string name="ui.main.submenu.custom_lobby_create">つくる</string>
+    <string name="ui.main.submenu.custom_lobby_join">入る</string>
+    <string name="ui.main.submenu.customLobby.create.error.NotConnected.title">接続がありません</string>
+    <string name="ui.main.submenu.customLobby.create.error.NotConnected.body">ロビーを作るために接続が必要です</string>
+    <string name="ui.main.submenu.customLobby.create.error.NotConnected.button">はい</string>
+    <string name="ui.main.submenu.customLobby.join.error.NotConnected.title">接続がありません</string>
+    <string name="ui.main.submenu.customLobby.join.error.NotConnected.body">ロビーを入るために接続が必要です</string>
+    <string name="ui.main.submenu.customLobby.join.error.NotConnected.button">はい</string>
+
+    <string name="ui.stageSelect.resetStrikes">禁止をリセット</string>
+    <string name="ui.stageSelect.back">戻る</string>
+    <string name="ui.stageSelect.strikeInstructions">：ステージを禁止</string>
+    <string name="ui.stageSelect.title">ステージセレクト</string>
+
+    <string name="ui.onlineBlindPick.back">戻る</string>
+    <string name="ui.onlineBlindPick.selectFighter"></string>
+    <string name="ui.onlineBlindPick.spectating">観中</string>
+    <string name="ui.onlineBlindPick.playingVs">乱闘中  &lt;font="LeagueSpartan-Bold SDF"&gt;&lt;size=27&gt;#*&lt;/size&gt;&lt;/font&gt; </string>
+    <string name="ui.onlineBlindPick.waiting">プレイヤーを待っています</string>
+    <string name="ui.onlineBlindPick.stagetitle">ステージ#*</string>
+    <string name="ui.onlineBlindPick.NofN"> (#* に　#*)</string>
+    <string name="ui.onlineBlindPick.LockIn">乱闘準備ができて</string>
+    <string name="ui.onlineBlindPick.IsLocked">準備ができて</string>
+
+    <string name="ui.characterSelect.title">乱闘に備える</string>
+    <string name="ui.characterSelect.startButton">始める</string>
+
+    <string name="ui.characterSelect.playerNumDisplay">P#*</string>
+    <string name="ui.characterSelect.cpuNumDisplay">CP</string>
+    <string name="ui.characterSelect.you">あなた</string>
+    <string name="ui.characterSelect.playerName">PLAYER #*</string>
+    <string name="ui.characterSelect.back">戻る</string>
+    <string name="ui.characterSelect.input.save">セーブ</string>
+    <string name="ui.characterSelect.input.cancel">キャンセル</string>
+
+    <string name="ui.characterSelect.mainOption.Rules">ルール:</string>
+    <string name="ui.characterSelect.mainOption.Mode">モード:</string>
+    <string name="ui.characterSelect.mainOption.Lives">ストク数:</string>
+    <string name="ui.characterSelect.mainOption.Time">制限時間:</string>
+    <string name="ui.characterSelect.mainOption.StageSelect">ステージセレクト:</string>
+    <string name="ui.characterSelect.mainOption.TeamAttack">チームアッタク:</string>
+    <string name="ui.characterSelect.mainOption.Pause">一時停止:</string>
+
+    <string name="ui.option.on">付ける</string>
+    <string name="ui.option.off">消す</string>
+
+    <string name="ui.option.unlimitedTime">制限なし</string>
+
+    <string name="ui.playerCursor">P#*</string>
+
+    <string name="ui.customLobby.title">カスタム乱闘</string>
+    <string name="ui.customLobby.title.inProgress">乱闘中</string>
+    <string name="ui.customLobby.timeLeft">残り時間： </string>
+    <string name="ui.customLobby.createRoom">ロビーを作る</string>
+    <string name="ui.customLobby.findRoom">ロビーを入る</string>
+    <string name="ui.customLobby.leaveDialog.title">入るを出る</string>
+    <string name="ui.customLobby.leaveDialog.body">本当、ロビーを出るか</string>
+    <string name="ui.customLobby.leave">出る</string>
+    <string name="ui.customLobby.enter">はじめる</string>
+    <string name="ui.customLobby.join">乱闘に参加</string>
+    <string name="ui.customLobby.invite">友達を招待</string>
+    <string name="ui.customLobby.openChat">チャットを開ける</string>
+    <string name="ui.customLobby.playerCount">#*/#*</string>
+
+    <string name="ui.customLobby.validationError.NAME_TOO_SHORT">名前は短すぎる</string>
+    <string name="ui.customLobby.validationError.PASSWORD_TOO_SHORT">名前が長すぎます</string>
+
+    <string name="ui.customLobby.serverError.invalidCredentials.title">ロビーがありません</string>
+    <string name="ui.customLobby.serverError.invalidCredentials.body">ロビー 「&lt;b&gt;&lt;size=110%&gt;#*&lt;size=100%&gt;&lt;/b&gt;」がありませんか、そのパスワードが正しくありません.</string>
+    <string name="ui.customLobby.serverError.lobbyFull.title">ロビーはいっぱいです</string>
+    <string name="ui.customLobby.serverError.lobbyFull.body">ロビーはいっぱいです。</string>
+    <string name="ui.customLobby.serverError.lobbyNameTaken.title">名前はすでにあります</string>
+    <string name="ui.customLobby.serverError.lobbyNameTaken.body">ロビー「&lt;b&gt;&lt;size=110%&gt;#*&lt;size=100%&gt;&lt;/b&gt;」はすでにあります。　別の名前を使用してください</string>
+    <string name="ui.customLobby.serverError.failedInLobby.title">ロビー中</string>
+    <string name="ui.customLobby.serverError.failedInLobby.body">あなたはすでにロビー中。 新しいロビーに参加するために、ゲームを再開してください</string>
+    <string name="ui.customLobby.serverError.failedInMatch.title">乱闘中</string>
+    <string name="ui.customLobby.serverError.failedInMatch.body">あなたはすでに乱闘中。 新しい乱闘に入るために、ゲームを再開してください</string>
+    <string name="ui.customLobby.serverError.matchRunning.title">乱闘中</string>
+    <string name="ui.customLobby.serverError.matchRunning.body">参加できません. このロビーは乱闘中</string>
+    <string name="ui.customLobby.serverError.createSystemError.title">Steamにエラーがありました</string>
+    <string name="ui.customLobby.serverError.createSystemError.body">Steamにエラーがありました。　ロビーの作に失敗しました。　Steamを再起動してみてください</string>
+    <string name="ui.customLobby.serverError.joinSystemError.title">システムにエラーがありました</string>
+    <string name="ui.customLobby.serverError.joinSystemError.body">システムにエラーがありました。　新しい試合に参加するために、ゲームを再開してください</string>
+
+    <string name="ui.customLobby.serverMessage.ownerLeft.title">所有者がロビーを去った</string>
+    <string name="ui.customLobby.serverMessage.ownerLeft.body">所有者がロビーを去ったから、ロビーは破壊されました</string>
+    <string name="ui.customLobby.serverMessage.ownerLeft.continue">はい</string>
+
+    <string name="ui.lobbyDialog.create.title">カスタムロビーを作る</string>
+    <string name="ui.lobbyDialog.join.title">カスタムロビーを入る</string>
+    <string name="ui.lobbyDialog.enterLobbyName">ロビーの名前:</string>
+    <string name="ui.lobbyDialog.enterLobbyPassword">ロビーのパスワード: (随意)</string>
+    <string name="ui.lobbyDialog.filterLobbyName">名前でフィルター:</string>
+    <string name="ui.lobbyDialog.create.confirm">作る</string>
+    <string name="ui.lobbyDialog.join.confirm">入る</string>
+    <string name="ui.lobbyDialog.cancel">キャンセル</string>
+    <string name="ui.lobbyDialog.joinPrivate">友達に加わる</string>
+    <string name="ui.lobbyDialog.refreshLobbyList">リフレッシュ</string>
+    <string name="ui.lobbyDialog.lobbyType.k_ELobbyTypePrivate">招待のみ</string>
+    <string name="ui.lobbyDialog.lobbyType.k_ELobbyTypeFriendsOnly">友達</string>
+    <string name="ui.lobbyDialog.lobbyType.k_ELobbyTypePublic">公共</string>
+    <string name="ui.lobbyDialog.join.title.k_EChatRoomEnterResponseFull">ロビーはいっぱいです</string>
+    <string name="ui.lobbyDialog.join.title.k_EChatRoomEnterResponseNotAllowed">乱闘中</string>
+    <string name="ui.lobbyDialog.join.title.k_EChatRoomEnterResponseDoesntExist">所有者が去った</string>
+    <string name="ui.lobbyDialog.join.title.unknown">Steamにエラーがありました</string>
+    <string name="ui.lobbyDialog.join.body.k_EChatRoomEnterResponseFull">ロビーはいっぱいです</string>
+    <string name="ui.lobbyDialog.join.body.k_EChatRoomEnterResponseNotAllowed">ロビーは乱闘中から、参加できません</string>
+    <string name="ui.lobbyDialog.join.body.k_EChatRoomEnterResponseDoesntExist">所有者がロビーを去った</string>
+    <string name="ui.lobbyDialog.join.body.unknown">Steamでエラーが発生しました</string>
+
+    <string name="ui.characterSelect.moreOptions.title">その他の設定</string>
+    <string name="ui.characterSelect.moreOptions.profileListTitle">保存したルール</string>
+    <string name="ui.characterSelect.moreOptions.noSavedProfiles">保存ルールがありません</string>
+    <string name="ui.characterSelect.moreOptions.createNewProfileTitle">保存ルールを作る</string>
+    <string name="ui.characterSelect.moreOptions.cancel">キヤンセル</string>
+    <string name="ui.characterSelect.moreOptions.save">保存</string>
+    <string name="ui.characterSelect.moreOptions.mustNameProfile">ルールの名前</string>
+
+    <string name="gameRules.FreeForAll">プロ</string>
+    <string name="gameRules.Teams">チーム</string>
+    <string name="gameRules.Testing">テスト</string>
+
+    <string name="gameRules.subtitle.FreeForAll">乱闘</string>
+    <string name="gameRules.subtitle.Teams">チーム乱闘</string>
+    <string name="gameRules.subtitle.Testing">テスト乱闘</string>
+
+    <string name="gameMode.Stock">ストック制</string>
+    <string name="gameMode.Time">時間制</string>
+
+    <string name="lobbyGameMode.Friendlies">優しい</string>
+    <string name="lobbyGameMode.Teams">チーム</string>
+    <string name="lobbyGameMode.TeamAssist">タッグチーム</string>
+    <string name="lobbyGameMode.Gauntlet">ガントレット</string>
+    <string name="lobbyGameMode.Limitless">無限</string>
+    <string name="lobbyGameMode.NeutralFrenzy">フレジー</string>
+    <string name="lobbyGameMode.Footsies">FOOTSIES</string>
+    <string name="lobbyGameMode.Permaspark">トレーニング</string>
+    <string name="lobbyGameMode.Stock">プロ</string>
+    <string name="lobbyGameMode.EndGame">終盤</string>
+
+    <string name="pauseMode.Allowed">つけています</string>
+    <string name="pauseMode.Disabled">消しています</string>
+
+    <string name="team.Blue">青のチーム</string>
+    <string name="team.Red">赤のチーム</string>
+    <string name="team.Green">緑のチーム</string>
+    <string name="team.Yellow">黄色のチーム</string>
+    <string name="team.Purple">紫のチーム</string>
+
+    <string name="optionsProfile.name.default">デフォルト</string>
+
+    <string name="ui.characterSelect.character.random">おまかせ</string>
+
+    <string name="dialog.FrameController.FatalError.title">OOP!</string>
+    <string name="dialog.FrameController.FatalError.body">エラーがありました。</string>
+
+    <string name="dialog.invalidChar.title">無効な文字</string>
+    <string name="dialog.invalidChar.body">名前には文字、数字、スペースのみを含めることができます</string>
+    <string name="dialog.tooShort.title">短すぎる</string>
+    <string name="dialog.tooShort.body">名前は#*文字以上にする必要があります</string>
+    <string name="dialog.saveError.title">エラーがありました</string>
+    <string name="dialog.saveError.body">データの保存中に問題が発生しました</string>
+    <string name="dialog.cannotDeleteLastProfile.title">削除できません</string>
+    <string name="dialog.cannotDeleteLastProfile.body">少なくとも1つのオプションプロファイルが必要です.</string>
+    <string name="dialog.OnlineGame.LockedIn.title">準備ができて</string>
+    <string name="dialog.OnlineGame.LockedIn.body">今、出発できません</string>
+    <string name="dialog.OnlineGame.Error.title">OOP!</string>
+    <string name="dialog.OnlineGame.Error.Desync.body">エラーがありました。</string>
+    <string name="dialog.OnlineGame.Error.Disconnect.body">プレーヤーの接続が切断されたか、乱闘から離れました</string>
+    <string name="dialog.OnlineGame.Error.InExistingMatch.body">あなたは乱闘中。新しい乱闘を開始できません。</string>
+    <string name="dialog.OnlineGame.Error.Abandoned.body">あなたは乱闘を辞めました</string>
+    <string name="dialog.OnlineGame.Error.AFKSelection.body">あなたはキャラクターを選択しませんでした</string>
+    <string name="dialog.OnlineGame.Error.Mismatch.body">このロビーは別のベータコードを使用しています。 コードを見つけるには、Vortex:RisingのDiscordの#Getting-Startedを参照ください</string>
+    <string name="dialog.OnlineGame.Error.QueueFailure.body">ええ</string>
+    <string name="dialog.OnlineGame.Error.ServerMatchFailure.body">エラーがありました</string>
+    <string name="dialog.OnlineGame.Error.UDPFailure.body">UDP接続を確立できませんでした. 接続設定を確認するか、ファイアウォールが接続をブロックしていないことを確認してください。 問題を解決できない場合は、DISCORDで質問してください</string>
+    <string name="dialog.OnlineGame.Error.NotInCSS.body">すべてのプレイヤーがキャラクターセレクト画面にいるわけではありません</string>
+    <string name="dialog.JoinRoomFail.VersionMismatch.title">ロビーに参加できませんでした</string>
+    <string name="dialog.JoinRoomFail.VersionMismatch.body">ゲームのバージョンが一致しません</string>
+    <string name="dialog.JoinRoomFail.AddPlayerFail.title">ロビーに参加できませんでした</string>
+    <string name="dialog.JoinRoomFail.AddPlayerFail.body">ロビーにプレーヤーを追加するできませんでした</string>
+    <string name="dialog.LobbyWaiting.title">準備ができていない</string>
+    <string name="dialog.LobbyWaiting.body">乱闘を開始するために、すべてのプレイヤーはロビー画面に戻る必要があります</string>　
+
+    <string name="dialog.AutoJoinFail.title">参加できませんでした</string>
+    <string name="dialog.AutoJoinFail.InLobby.body">あなたはロビー中から、ロビーに入るできませんでした</string>
+    <string name="dialog.continue">はい</string>
+    <string name="dialog.exit">出る</string>
+
+    <string name="dialog.profileDelete.title">本当か</string>
+    <string name="dialog.profileDelete.body">本当、このルールセットを削除か</string>
+    <string name="dialog.delete.cancel">キヤンセル</string>
+    <string name="dialog.delete.confirm">はい、削除する</string>
+
+    <string name="dialog.tooManyProfiles.title">ルールセットが多すぎます</string>
+    <string name="dialog.tooManyProfiles.body">ルールセットは#*つまでです</string>
+
+    <string name="dialog.enteringGame.title">試合に入る</string>
+    <string name="dialog.cancel">キヤンセル</string>
+
+    <string name="dialog.leave">離れる</string>
+
+    <string name="victory.title.forfeit">失う</string>
+    <string name="victory.title.noVictor">引き分け</string>
+    <string name="victory.title.delimiter"> と </string>
+    <string name="victory.title.win.singular"> 勝った！</string>
+    <string name="victory.title.win.plural"> 勝った！</string>
+
+    <string name="ui.victoryScreen.continue">次</string>
+    <string name="ui.victoryScreen.winner">勝利</string>
+    <string name="ui.victoryScreen.stat.MaxRound">最高の連勝</string>
+    <string name="ui.victoryScreen.stat.NeutralWins">ニュートラルが勝った</string>
+    <string name="ui.victoryScreen.stat.openSuccessRate">% コンボ開始</string>
+    <string name="ui.victoryScreen.stat.Combos">コンボを始まった</string>
+    <string name="ui.victoryScreen.stat.closeSuccessRate">%コンボKO</string>
+    <string name="ui.victoryScreen.stat.postOpenHits">攻撃/コンボ</string>
+    <string name="ui.victoryScreen.stat.AttacksPerMin">攻撃/分</string>
+    <string name="ui.victoryScreen.stat.NeutralWinsPerKO">NEUTRALS/KO</string>
+    <string name="ui.victoryScreen.stat.SparksPerMin">ニュートラル/分</string>
+    <string name="ui.victoryScreen.stat.SparkRate"> スパーク</string>
+    <string name="ui.victoryScreen.stat.SparksUsed">スパークの数</string>
+    <string name="ui.victoryScreen.stat.Kill">KO</string>
+    <string name="ui.victoryScreen.stat.Counters">カウンター攻撃</string>
+    <string name="ui.victoryScreen.stat.Death">落ちるの</string>
+    <string name="ui.victoryScreen.stat.Suicide">SD</string>
+
+    <string name="ui.store.title">カスタマイズ ( ポート0#*)</string>
+
+    <string name="ui.store.tab.title.CHARACTERS">キャラクター</string>
+    <string name="ui.store.tab.title.COLLECTIBLES">収集品</string>
+    
+    <string name="ui.mainMenu.version">バージョン #*</string>
+    <string name="ui.mainMenu.select">セレクト</string>
+
+    <string name="ui.settings.title">設定</string>
+    <string name="ui.settings.back">設定</string>
+
+    <string name="ui.settings.tab.title.GAMEPLAY">ゲームプレイ</string>
+    <string name="ui.settings.tab.title.BATTLE">戦い</string>
+    <string name="ui.settings.tab.title.CONTROLS">コントロール</string>
+    <string name="ui.settings.tab.title.VIDEO">ビデオ</string>
+    <string name="ui.settings.tab.title.AUDIO">オーディオ</string>
+
+    <string name="ui.settings.saved">設定を保存しました</string>
+
+
+    <string name="ui.settings.resetWarning.title">設定をリセットする</string>
+    <string name="ui.settings.resetWarning.body">本当に設定をリセットするか</string>
+    <string name="ui.settings.resetWarning.confirm">はい</string>
+    <string name="ui.settings.resetWarning.cancel">いいえ</string>
+
+    <string name="ui.settings.notSavedWarning.title">コントロールが保存しません</string>
+    <string name="ui.settings.notSavedWarning.body">コントロールを保存しますか</string>
+    <string name="ui.settings.notSavedWarning.confirm">はい</string>
+    <string name="ui.settings.notSavedWarning.cancel">いいえ</string>
+
+    <string name="ui.settings.movementUnbound.title">コントロールが保存しません</string>
+    <string name="ui.settings.movementUnbound.body">動きはバインドされていませんから、瀬鄭が保存できません。　継続しますか</string>
+    <string name="ui.settings.movementUnbound.confirm">はい</string>
+    <string name="ui.settings.movementUnbound.cancel">いいえ</string>
+
+    <string name="ui.settings.reset">リセットする</string>
+    <string name="ui.settings.save">保存</string>
+
+    <string name="ui.settings.controls.GameCube Controller">ゲームキューブコントローラ</string>
+    <string name="ui.settings.controls.XBox One Controller">XBOX ONEコントローラ</string>
+    <string name="ui.settings.controls.PlayStation 4 Controller">PS4コントローラ</string>
+    <string name="ui.settings.controls.VJoy Device">VJoyコントローラ</string>
+  
+    <string name="ui.settings.controls.XInput Controller">XINPUTコントローラ</string>
+    <string name="ui.settings.controls.keyboard">キーボード</string>
+    <string name="ui.settings.controls.unknown">わからない</string>
+    <string name="ui.settings.controls.advancedControls">その他のコントロール</string>
+
+    <string name="ui.settings.controls.Attack">攻撃(サポートに支援する)</string>
+    <string name="ui.settings.controls.Special">必殺ワザ (サポートにパワープレー)</string>
+    <string name="ui.settings.controls.Strike">ストライク</string>
+    <string name="ui.settings.controls.LightAttack">攻撃</string>
+    <string name="ui.settings.controls.Grab">つかみ</string>
+    <string name="ui.settings.controls.Jump">ジャンプ</string>
+    <string name="ui.settings.controls.Shield1"> シールド (サポートに風バースト)</string>
+    <string name="ui.settings.controls.Shield2">シールド</string>
+    <string name="ui.settings.controls.Wavedash">突貫</string>
+    <string name="ui.settings.controls.FullJump">大ジャンプ</string>
+    <string name="ui.settings.controls.ShortJump">小ジャンプ</string>
+    <string name="ui.settings.controls.Tilt">強攻撃</string>
+    <string name="ui.settings.controls.SoloAssist">ソロ支援する</string>
+    <string name="ui.settings.controls.SoloGust">風バースト (ソロー)</string>
+
+    <string name="ui.settings.controls.Up">上</string>
+    <string name="ui.settings.controls.Backward">左</string>
+    <string name="ui.settings.controls.Down">下</string>
+    <string name="ui.settings.controls.Forward">右</string>
+
+    <string name="ui.settings.controls.TauntUp">上エモート</string>
+    <string name="ui.settings.controls.TauntLeft">左エモート</string>
+    <string name="ui.settings.controls.TauntDown">下エモート</string>
+    <string name="ui.settings.controls.TauntRight">右エモート</string>
+
+    <string name="ui.settings.controls.UpStrike">上ストライク</string>
+    <string name="ui.settings.controls.BackwardStrike">左ストライク</string>
+    <string name="ui.settings.controls.DownStrike">下ストライク</string>
+    <string name="ui.settings.controls.ForwardStrike">右ストライク</string>
+
+    <string name="ui.settings.controls.UpTilt">上強攻撃</string>
+    <string name="ui.settings.controls.BackwardTilt">左強攻撃</string>
+    <string name="ui.settings.controls.DownTilt">下強攻撃</string>
+    <string name="ui.settings.controls.ForwardTilt">右強攻撃</string>
+
+    <string name="ui.settings.controls.UpSpecial">上必殺ワザ</string>
+    <string name="ui.settings.controls.BackwardSpecial">左必殺ワザ</string>
+    <string name="ui.settings.controls.DownSpecial">下必殺ワザ</string>
+    <string name="ui.settings.controls.ForwardSpecial">右必殺ワザ</string>
+
+    <string name="ui.settings.controls.offlineInputDelay">OFFLINE INPUT DELAY</string>  
+    <string name="ui.settings.controls.tapJump">はじいてジャンプ</string>
+    <string name="ui.settings.controls.cancelDashSustain">空中攻撃やめる</string>
+    <string name="ui.settings.controls.autoFastFall">自動急降下</string>
+    <string name="ui.settings.controls.attackAssist">自動攻撃</string>
+    <string name="ui.settings.controls.autoCancel">自動突進</string>
+    <string name="ui.settings.controls.doubleTapToRun">ダブルはじいて走る</string>
+    <string name="ui.settings.controls.recoveryJump">プラットホームに帰るのを支援</string>
+    <string name="ui.settings.controls.cStickCharge">Cスティックを充電</string>
+    <string name="ui.settings.controls.buttonCharge">ボタンを充電</string>
+
+    <string name="ui.settings.controls.toggle.on">付ける</string>
+    <string name="ui.settings.controls.toggle.off">消す</string>
+
+    <string name="ui.settings.controls.unbound">&lt;b&gt;#*&lt;/b&gt; &lt;b&gt;#*&lt;/b&gt;　からバインド解除</string>
+    <string name="ui.settings.controls.ok">はい</string>
+    <string name="ui.settings.controls.reserved">そのボタンは使用できません</string>
+
+    <string name="ui.settings.controls.movementUnbound">移動はバインドしましたなければならない</string>
+
+    <string name="ui.dialog.advancedController.title">もっとコントローラの設定</string>
+    <string name="ui.dialog.advancedController.column1Title">方向バインド</string>
+    <string name="ui.dialog.advancedController.column2Title">感度</string>
+
+    <string name="ui.dialog.advancedController.movement">移動</string>
+    <string name="ui.dialog.advancedController.tilts">強攻撃</string>
+    <string name="ui.dialog.advancedController.strikes">方向攻撃</string>
+    <string name="ui.dialog.advancedController.specials">方向技</string>
+    <string name="ui.dialog.advancedController.emotes">エモート</string>
+
+    <string name="ui.dialog.advancedController.None"></string>
+    <string name="ui.dialog.advancedController.RightStick">&lt;sprite="R Stick Glyph" name="R Stick Glyph"&gt;</string>
+    <string name="ui.dialog.advancedController.LeftStick">&lt;sprite="L Stick Glyph" name="L Stick Glyph"&gt;</string>
+    <string name="ui.dialog.advancedController.DPad">&lt;sprite="WiiU_Dpad" name="WiiU_Dpad"&gt;</string>
+
+    <string name="ui.dialog.advancedController.leftStickDeadzone">左スティックのはじき入力</string>
+    <string name="ui.dialog.advancedController.rightStickDeadzone">右スティックのはじき入力</string>
+    <string name="ui.dialog.advancedController.leftTrigger">左引き金</string>
+    <string name="ui.dialog.advancedController.rightTrigger">右引き金</string>
+
+    <string name="ui.dialog.advancedController.leftStickDeadZone">左スティック</string>
+    <string name="ui.dialog.advancedController.rightStickDeadZone">右スティック</string>
+    <string name="ui.dialog.advancedController.leftTriggerDeadZone">左引き金</string>
+    <string name="ui.dialog.advancedController.rightTriggerDeadZone">右引き金</string>
+
+    <string name="ui.dialog.advancedControls.confirm">はい</string>
+    <string name="ui.dialog.advancedControls.reset">リセットする</string>
+
+    <string name="ui.dialog.advancedKeyboard.title">もっとキーボードの設定</string>
+
+    <string name="ui.dialog.advancedKeyboard.Movement">移動</string>
+    <string name="ui.dialog.advancedKeyboard.Tilts">強攻撃</string>
+    <string name="ui.dialog.advancedKeyboard.Strikes">方向攻撃</string>
+    <string name="ui.dialog.advancedKeyboard.Specials">方向技</string>
+    <string name="ui.dialog.advancedKeyboard.Emotes">エモート</string>
+
+    <string name="ui.dialog.advancedKeyboard.up">上</string>
+    <string name="ui.dialog.advancedKeyboard.down">下</string>
+    <string name="ui.dialog.advancedKeyboard.left">左</string>
+    <string name="ui.dialog.advancedKeyboard.right">右</string>
+
+    <string name="ui.dialog.advancedKeyboard.confirm">はい</string>
+    <string name="ui.dialog.advancedKeyboard.reset">リセットする</string>
+
+    <string name="ui.audio.masterVolume">ゲームの音量</string>
+    <string name="ui.audio.bgm">バックグラウンドミュージック</string>
+    <string name="ui.audio.sfx">音響効果</string>
+    <string name="ui.audio.voice">ボイスラインと罵倒</string>
+    <string name="ui.audio.environment">環境音響効果</string>
+    <string name="ui.audio.characterVoice">キャラクター/アナウンサーの声</string>
+
+    <string name="ui.video.quality">グラフィックの質</string>
+    <string name="ui.video.quality.0">じゃがいも</string>
+    <string name="ui.video.quality.1">速い</string>
+    <string name="ui.video.quality.2">簡素</string>
+    <string name="ui.video.quality.3">いい</string>
+    <string name="ui.video.quality.4">綺麗</string>
+    <string name="ui.video.quality.5">素晴らしい</string>
+    <string name="ui.video.quality.6">もっとも美しい</string>
+
+    <string name="ui.video.graphicsQuality">シェーダーの質</string>
+    <string name="ui.video.graphicsQuality.0">じゃがいも</string>
+    <string name="ui.video.graphicsQuality.1">中</string>
+    <string name="ui.video.graphicsQuality.2">高い</string>
+
+    <string name="ui.video.particleQuality">粒子</string>
+    <string name="ui.video.stageQuality">ステージ</string>
+    <string name="ui.video.materialQuality">材料</string>
+
+    <string name="ui.video.threeTierQuality.0">じゃがいも</string>
+    <string name="ui.video.threeTierQuality.1">中</string>
+    <string name="ui.video.threeTierQuality.2">高い</string>
+
+    <string name="ui.video.resolution">解像度</string>
+    <string name="ui.video.resolution.option">#* x #*</string>
+    <string name="ui.video.resolution.custom">カスタム</string>
+
+	<string name="ui.video.windowMode.0">フルスクリーン</string>
+	<string name="ui.video.windowMode.1">外枠無しモード</string>
+	<string name="ui.video.windowMode.2">ウインドウ</string>
+
+
+    <string name="ui.video.display">ヂスプレー</string>
+    <string name="ui.video.display.option">ヂスプレー#*</string>
+
+    <string name="ui.video.Language">言語</string>
+    
+    <string name="ui.gameplay.muteEnemyHolos">敵のホログラムをミュートする</string>
+    <string name="ui.gameplay.muteEnemyVoicelines">敵のボイスラインをミュートする</string>
+
+    <string name="ui.video.vsync">VSYNC</string>
+    <string name="ui.video.teamHighlights">味方をハイライト</string>
+    <string name="ui.video.soloHighlights">ソローハイライト</string>
+    <string name="ui.video.mixOutlines">カラフルハイライト</string>
+    <string name="ui.video.limitFramerate">常に最大fps</string>
+    <string name="ui.video.msaa">MSアンチエイリアシング</string>
+    <string name="ui.video.visibleInBackground">バックグラウンドで見える</string>
+    <string name="ui.video.showPerformance">パフォーマンスを表示する</string>
+    <string name="ui.video.showSystemClock">システムクロックを表示する</string>
+    <string name="ui.video.fullScreen">全画面</string>
+    <string name="ui.video.mouseConfined">マウスをウィンドウに閉じ込める</string>
+    <string name="ui.video.fogEffects">霧の効果</string>
+    <string name="ui.video.postProcessing">後処理</string>
+    <string name="ui.video.motionBlur">モーションブラー</string>
+    <string name="ui.video.volumetricLighting">体積照明</string>
+    <string name="ui.video.showRanking">1v1ランキングを表示</string>
+    <string name="ui.dialog.equip.title">罵倒</string>
+    <string name="ui.dialog.equip.confirm">保存する</string>
+    <string name="ui.dialog.equip.cancel">キヤンセル</string>
+    <string name="ui.dialog.equip.unassigned">割り当てられていません</string>
+
+    <string name="dialog.Battle.promptLeaveMatch.title">試合を離れる</string>
+    <string name="dialog.Battle.promptLeaveMatchLobbyLeader.body">試合を離れるは本当ですか。 試合を離れるのがロビーを破壊</string>
+    <string name="dialog.Battle.promptLeaveMatchAndLobby.body">試合を離れるは本当ですか。 試合を離れるのがロビーを破壊</string>
+    <string name="dialog.Battle.promptLeaveMatch.body">試合を離れるは本当ですか</string>
+    <string name="dialog.Battle.promptLeaveMatch.confirm">はい</string>
+
+    <string name="ui.battle.center.fight">FIGHT!</string>
+    <string name="ui.battle.center.game">GAME!</string>
+    <string name="ui.battle.center.time">TIME!</string>
+
+    <string name="gameData.stageSelect.temp">TEMP</string>
+    <string name="gameData.stageSelect.random">おまかせ</string>
+
+    <string name="controls.button.a">A</string>
+    <string name="controls.button.b">B</string>
+    <string name="controls.button.x">X</string>
+    <string name="controls.button.y">Y</string>
+    <string name="controls.button.leftTrigger">LT</string>
+    <string name="controls.button.rightTrigger">RT</string>
+    <string name="controls.button.leftBumper">LB</string>
+    <string name="controls.button.rightBumper">RB</string>
+    <string name="keyboard.button.q">Q</string>
+    <string name="keyboard.button.e">E</string>
+    <string name="keyboard.button.c">C</string>
+    <string name="keyboard.button.x">X</string>
+    <string name="keyboard.button.t">T</string>
+    <string name="keyboard.button.n">N</string>
+    <string name="keyboard.button.m">M</string>
+    <string name="keyboard.button.leftTrigger">@</string>
+    <string name="keyboard.button.rightTrigger">[</string>
+    <string name="keyboard.button.esc">ESC</string>
+    <string name="keyboard.button.enter">ENTER</string>
+
+    <string name="ui.input.binding.Gamecube.icon.Left Trigger">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube L"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.Right Trigger">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube R"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.X">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube X"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.Y">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube Y"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.A">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube A"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.B">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube B"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.Z">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube Z"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.Start">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube Start"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.DPad Down">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Down"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.DPad Left">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Left"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.DPad Up">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Up"&gt;</string>
+    <string name="ui.input.binding.Gamecube.icon.DPad Right">&lt;sprite="GamecubeButtonSpritesheet" name="Gamecube DPad Right"&gt;</string>
+
+    <string name="ui.input.binding.Xbox.icon.A">&lt;sprite="XboxButtonSpritesheet" name="Xbox A"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.B">&lt;sprite="XboxButtonSpritesheet" name="Xbox B"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.X">&lt;sprite="XboxButtonSpritesheet" name="Xbox X"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Y">&lt;sprite="XboxButtonSpritesheet" name="Xbox Y"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.DPad Left">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Left"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.DPad Right">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Right"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.DPad Up">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Up"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.DPad Down">&lt;sprite="XboxButtonSpritesheet" name="Xbox DPad Down"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Left Bumper">&lt;sprite="XboxButtonSpritesheet" name="Xbox LB"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Left Trigger">&lt;sprite="XboxButtonSpritesheet" name="Xbox LT"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Left Stick Button">&lt;sprite="XboxButtonSpritesheet" name="Xbox L Stick"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Menu">&lt;sprite="XboxButtonSpritesheet" name="Xbox Menu"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Right Bumper">&lt;sprite="XboxButtonSpritesheet" name="Xbox RB"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Right Trigger">&lt;sprite="XboxButtonSpritesheet" name="Xbox RT"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.Right Stick Button">&lt;sprite="XboxButtonSpritesheet" name="Xbox R Stick"&gt;</string>
+    <string name="ui.input.binding.Xbox.icon.View">&lt;sprite="XboxButtonSpritesheet" name="Xbox Windows"&gt;</string>
+
+    <string name="ui.input.binding.Playstation.icon.Circle">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Circle"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.DPad Down">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Down"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.DPad Left">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Left"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.DPad Right">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Right"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.DPad Up">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation DPad Up"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Left Stick Button">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation L Stick"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Left Bumper">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation L1"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Left Trigger">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation L2"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Options">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Options"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Right Stick Button">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation R Stick"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Right Bumper">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation R1"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Right Trigger">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation R2"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Share">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Share"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Square">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Square"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.TouchPad Button">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation TouchPad"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Triangle">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation Triangle"&gt;</string>
+    <string name="ui.input.binding.Playstation.icon.Cross">&lt;sprite="PlaystationButtonSpritesheet" name="Playstation X"&gt;</string>
+
+    <string name="ui.input.binding.Keyboard.icon.Key0">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 0"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key1">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 1"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key2">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 2"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key3">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 3"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key4">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 4"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key5">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 5"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key6">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 6"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key7">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 7"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key8">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 8"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Key9">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 9"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad0">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 0"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad1">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 1"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad2">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 2"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad3">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 3"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad4">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 4"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad5">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 5"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad6">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 6"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad7">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 7"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad8">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 8"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad9">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard 9"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.A">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard A"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.B">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard B"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.C">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard C"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.D">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard D"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.E">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard E"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.G">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard G"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.H">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard H"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.I">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard I"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.J">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard J"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.K">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard K"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.L">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard L"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.M">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard M"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.N">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard N"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.O">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard O"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.P">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard P"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Q">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Q"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.R">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard R"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.S">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard S"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.T">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard T"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.U">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard U"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.V">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard V"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.W">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard W"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.X">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard X"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Y">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Y"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Z">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Z"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F1">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F1"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F2">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F2"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F3">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F3"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F4">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F4"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F5">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F5"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F6">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F6"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F7">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F7"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F8">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F8"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F9">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F9"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F10">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F10"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F11">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F11"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.F12">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard F12"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Left Alt">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Alt"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Right Alt">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Alt"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Down Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Down"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Left Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Left"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Right Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Right"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Up Arrow">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Arrow Up"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Asterisk">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Asterisk"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad Multiply">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Asterisk"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Backslash">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Backslash"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Backspace">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Backspace"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Bracket Left">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Bracket Left"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Bracket Right">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Bracket Right"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Caps Lock">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Caps Lock"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Left Command">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Command"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Left Control">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Ctrl"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Right Control">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Ctrl"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Del">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Del"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Delete">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Del"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.End">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard End"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Enter">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Enter"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Return">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Enter"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad Enter">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Enter"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Escape">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Esc"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Home">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Home"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Insert">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Insert"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Mark Left">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mark Left"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Mark Right">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mark Right"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Minus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Minus"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad Minus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Minus"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Mouse">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Mouse Left">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Left"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Mouse Middle">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Middle"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Mouse Right">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Right"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.NumLock">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Num Lock"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Page Down">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Page Down"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Page Up">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Page Up"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Plus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Plus"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad Plus">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Plus"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Equals">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Plus"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Print Screen">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Print Screen"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Question">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Question"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Slash">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Question"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Pad Divide">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Question"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Quote">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Quote"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Semicolon">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Semicolon"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Shift">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Shift"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Left Shift">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Shift"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Right Shift">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Shift"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Space">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Space"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Tab">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Tab"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Backquote">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Tilde"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Right Command">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Windows"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Left Button">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Left"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Middle Button">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Middle"&gt;</string>
+    <string name="ui.input.binding.Keyboard.icon.Right Button">&lt;sprite="KeyboardButtonSpritesheet" name="Keyboard Mouse Right"&gt;</string>
+
+    <string name="ui.input.binding.Crew.icon.A">&lt;sprite="CrewButtonSpritesheet" name="Crew A"&gt;</string>
+    <string name="ui.input.binding.Crew.icon.B">&lt;sprite="CrewButtonSpritesheet" name="Crew B"&gt;</string>
+    <string name="ui.input.binding.Crew.icon.X">&lt;sprite="CrewButtonSpritesheet" name="Crew X"&gt;</string>
+    <string name="ui.input.binding.Crew.icon.Y">&lt;sprite="CrewButtonSpritesheet" name="Crew Y"&gt;</string>
+
+
+    <string name="equip.item.default">デフォルト</string>
+
+    <string name="equipType.singular.SKIN">スキン</string>
+    <string name="equipType.singular.EMOTE">エモート</string>
+    <string name="equipType.singular.VOICE_TAUNT">罵倒</string>
+    <string name="equipType.singular.HOLOGRAM">ホログラム</string>
+    <string name="equipType.singular.VICTORY_POSE">勝利ポーズ</string>
+    <string name="equipType.singular.PLATFORM">プラットホーム</string>
+    <string name="equipType.singular.ANNOUNCERS">ナレーター</string>
+    <string name="equipType.singular.BLAST_ZONE">境界</string>
+    <string name="equipType.singular.LOADING_SCREEN">ロード画面</string>
+    <string name="equipType.singular.NETSUKE">CHARM</string>
+    <string name="equipType.singular.PLAYER_ICON">プレーヤーアイコン</string>
+    <string name="equipType.singular.TOKEN">トークン</string>
+    <string name="equipType.singular.CHARACTER">キャラクター</string>
+
+    <string name="equipType.plural.SKIN">スキン</string>
+    <string name="equipType.plural.EMOTE">エモート</string>
+    <string name="equipType.plural.VOICE_TAUNT">罵倒</string>
+    <string name="equipType.plural.HOLOGRAM">ホログラム</string>
+    <string name="equipType.plural.VICTORY_POSE">勝利ポーズ</string>
+    <string name="equipType.plural.PLATFORM">プラットホーム</string>
+    <string name="equipType.plural.ANNOUNCERS">ナレーター</string>
+    <string name="equipType.plural.BLAST_ZONE">境界</string>
+    <string name="equipType.plural.LOADING_SCREEN">ロード画面</string>
+    <string name="equipType.plural.NETSUKE">チャーム</string>
+    <string name="equipType.plural.PLAYER_ICON">プレーヤーのアイコン</string>
+
+
+    <string name="equipment.name.disapproval">不承認</string>
+
+    <string name="playerCard.level">レベル #*</string>
+
+    <string name="lobby.players">プレや</string>
+    <string name="lobby.gauntletplayers">プレや</string>
+    <string name="lobby.spectators">聴衆</string>
+    <string name="lobby.team0">黄色いチーム</string>
+    <string name="lobby.team1">紫いチーム</string>
+</resources>
